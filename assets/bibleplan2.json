@@ -1,0 +1,1829 @@
+{
+  "plan": [
+    {
+      "date": "1/1/2021",
+      "chapter": "1. Mose 1",
+      "read": false
+    },
+    {
+      "date": "1/2/2021",
+      "chapter": "1. Mose 3",
+      "read": false
+    },
+    {
+      "date": "1/3/2021",
+      "chapter": "1. Mose 4",
+      "read": false
+    },
+    {
+      "date": "1/4/2021",
+      "chapter": "1. Mose 6",
+      "read": false
+    },
+    {
+      "date": "1/5/2021",
+      "chapter": "1. Mose 7",
+      "read": false
+    },
+    {
+      "date": "1/6/2021",
+      "chapter": "1. Mose 8",
+      "read": false
+    },
+    {
+      "date": "1/7/2021",
+      "chapter": "1. Mose 9",
+      "read": false
+    },
+    {
+      "date": "1/8/2021",
+      "chapter": "Jakobus 1",
+      "read": false
+    },
+    {
+      "date": "1/9/2021",
+      "chapter": "Jakobus 2",
+      "read": false
+    },
+    {
+      "date": "1/10/2021",
+      "chapter": "Jakobus 3",
+      "read": false
+    },
+    {
+      "date": "1/11/2021",
+      "chapter": "Jakobus 4",
+      "read": false
+    },
+    {
+      "date": "1/12/2021",
+      "chapter": "Jakobus 5",
+      "read": false
+    },
+    {
+      "date": "1/13/2021",
+      "chapter": "Galater 5",
+      "read": false
+    },
+    {
+      "date": "1/14/2021",
+      "chapter": "Galater 6",
+      "read": false
+    },
+    {
+      "date": "1/15/2021",
+      "chapter": "1. Mose 11",
+      "read": false
+    },
+    {
+      "date": "1/16/2021",
+      "chapter": "1. Mose 12",
+      "read": false
+    },
+    {
+      "date": "1/17/2021",
+      "chapter": "1. Mose 15",
+      "read": false
+    },
+    {
+      "date": "1/18/2021",
+      "chapter": "1. Mose 18",
+      "read": false
+    },
+    {
+      "date": "1/19/2021",
+      "chapter": "1. Mose 21",
+      "read": false
+    },
+    {
+      "date": "1/20/2021",
+      "chapter": "1. Mose 22",
+      "read": false
+    },
+    {
+      "date": "1/21/2021",
+      "chapter": "1. Mose 24",
+      "read": false
+    },
+    {
+      "date": "1/22/2021",
+      "chapter": "Matth. 5",
+      "read": false
+    },
+    {
+      "date": "1/23/2021",
+      "chapter": "Matth. 6",
+      "read": false
+    },
+    {
+      "date": "1/24/2021",
+      "chapter": "Matth. 7",
+      "read": false
+    },
+    {
+      "date": "1/25/2021",
+      "chapter": "Hiob 1",
+      "read": false
+    },
+    {
+      "date": "1/26/2021",
+      "chapter": "Hiob 2",
+      "read": false
+    },
+    {
+      "date": "1/27/2021",
+      "chapter": "Hiob 38",
+      "read": false
+    },
+    {
+      "date": "1/28/2021",
+      "chapter": "Hiob 39",
+      "read": false
+    },
+    {
+      "date": "1/29/2021",
+      "chapter": "Hiob 40",
+      "read": false
+    },
+    {
+      "date": "1/30/2021",
+      "chapter": "Hiob 41",
+      "read": false
+    },
+    {
+      "date": "1/31/2021",
+      "chapter": "Hiob 42",
+      "read": false
+    },
+    {
+      "date": "2/1/2021",
+      "chapter": "Matth. 13",
+      "read": false
+    },
+    {
+      "date": "2/2/2021",
+      "chapter": "Matth. 17",
+      "read": false
+    },
+    {
+      "date": "2/3/2021",
+      "chapter": "Matth. 21",
+      "read": false
+    },
+    {
+      "date": "2/4/2021",
+      "chapter": "1.Mose 27",
+      "read": false
+    },
+    {
+      "date": "2/5/2021",
+      "chapter": "1.Mose 28",
+      "read": false
+    },
+    {
+      "date": "2/6/2021",
+      "chapter": "1.Mose 37",
+      "read": false
+    },
+    {
+      "date": "2/7/2021",
+      "chapter": "1.Mose 39",
+      "read": false
+    },
+    {
+      "date": "2/8/2021",
+      "chapter": "1.Mose 40",
+      "read": false
+    },
+    {
+      "date": "2/9/2021",
+      "chapter": "1.Mose 41",
+      "read": false
+    },
+    {
+      "date": "2/10/2021",
+      "chapter": "1.Mose 42",
+      "read": false
+    },
+    {
+      "date": "2/11/2021",
+      "chapter": "1.Mose 43",
+      "read": false
+    },
+    {
+      "date": "2/12/2021",
+      "chapter": "1.Mose 44",
+      "read": false
+    },
+    {
+      "date": "2/13/2021",
+      "chapter": "1.Mose 45",
+      "read": false
+    },
+    {
+      "date": "2/14/2021",
+      "chapter": "1.Mose 50",
+      "read": false
+    },
+    {
+      "date": "2/15/2021",
+      "chapter": "2.Mose 1",
+      "read": false
+    },
+    {
+      "date": "2/16/2021",
+      "chapter": "2.Mose 2",
+      "read": false
+    },
+    {
+      "date": "2/17/2021",
+      "chapter": "2.Mose 3",
+      "read": false
+    },
+    {
+      "date": "2/18/2021",
+      "chapter": "2.Mose 4",
+      "read": false
+    },
+    {
+      "date": "2/19/2021",
+      "chapter": "2.Mose 5",
+      "read": false
+    },
+    {
+      "date": "2/20/2021",
+      "chapter": "2.Mose 6",
+      "read": false
+    },
+    {
+      "date": "2/21/2021",
+      "chapter": "Matth. 24",
+      "read": false
+    },
+    {
+      "date": "2/22/2021",
+      "chapter": "Matth. 25",
+      "read": false
+    },
+    {
+      "date": "2/23/2021",
+      "chapter": "Matth. 26",
+      "read": false
+    },
+    {
+      "date": "2/24/2021",
+      "chapter": "Matth. 27",
+      "read": false
+    },
+    {
+      "date": "2/25/2021",
+      "chapter": "2.Mose 7",
+      "read": false
+    },
+    {
+      "date": "2/26/2021",
+      "chapter": "2.Mose 8",
+      "read": false
+    },
+    {
+      "date": "2/27/2021",
+      "chapter": "2.Mose 9",
+      "read": false
+    },
+    {
+      "date": "2/28/2021",
+      "chapter": "2.Mose 10",
+      "read": false
+    },
+    {
+      "date": "3/1/2021",
+      "chapter": "2. Mose 11",
+      "read": false
+    },
+    {
+      "date": "3/2/2021",
+      "chapter": "2. Mose 12",
+      "read": false
+    },
+    {
+      "date": "3/3/2021",
+      "chapter": "2. Mose 13",
+      "read": false
+    },
+    {
+      "date": "3/4/2021",
+      "chapter": "2. Mose 14",
+      "read": false
+    },
+    {
+      "date": "3/5/2021",
+      "chapter": "2. Mose 19",
+      "read": false
+    },
+    {
+      "date": "3/6/2021",
+      "chapter": "2. Mose 20",
+      "read": false
+    },
+    {
+      "date": "3/7/2021",
+      "chapter": "2. Mose 32",
+      "read": false
+    },
+    {
+      "date": "3/8/2021",
+      "chapter": "3. Mose 16",
+      "read": false
+    },
+    {
+      "date": "3/9/2021",
+      "chapter": "Markus 6",
+      "read": false
+    },
+    {
+      "date": "3/10/2021",
+      "chapter": "Markus 8",
+      "read": false
+    },
+    {
+      "date": "3/11/2021",
+      "chapter": "Psalm 1",
+      "read": false
+    },
+    {
+      "date": "3/12/2021",
+      "chapter": "Psalm 19",
+      "read": false
+    },
+    {
+      "date": "3/13/2021",
+      "chapter": "Psalm 23",
+      "read": false
+    },
+    {
+      "date": "3/14/2021",
+      "chapter": "Psalm 37",
+      "read": false
+    },
+    {
+      "date": "3/15/2021",
+      "chapter": "Psalm 90",
+      "read": false
+    },
+    {
+      "date": "3/16/2021",
+      "chapter": "Psalm 100",
+      "read": false
+    },
+    {
+      "date": "3/17/2021",
+      "chapter": "Psalm 103",
+      "read": false
+    },
+    {
+      "date": "3/18/2021",
+      "chapter": "Sprüche 1",
+      "read": false
+    },
+    {
+      "date": "3/19/2021",
+      "chapter": "Sprüche 2",
+      "read": false
+    },
+    {
+      "date": "3/20/2021",
+      "chapter": "Sprüche 3",
+      "read": false
+    },
+    {
+      "date": "3/21/2021",
+      "chapter": "Sprüche 4",
+      "read": false
+    },
+    {
+      "date": "3/22/2021",
+      "chapter": "Sprüche 5",
+      "read": false
+    },
+    {
+      "date": "3/23/2021",
+      "chapter": "Sprüche 6",
+      "read": false
+    },
+    {
+      "date": "3/24/2021",
+      "chapter": "Sprüche 7",
+      "read": false
+    },
+    {
+      "date": "3/25/2021",
+      "chapter": "4. Mose 13",
+      "read": false
+    },
+    {
+      "date": "3/26/2021",
+      "chapter": "4. Mose 14",
+      "read": false
+    },
+    {
+      "date": "3/27/2021",
+      "chapter": "1.Thess. 1",
+      "read": false
+    },
+    {
+      "date": "3/28/2021",
+      "chapter": "1.Thess. 2",
+      "read": false
+    },
+    {
+      "date": "3/29/2021",
+      "chapter": "1.Thess. 3",
+      "read": false
+    },
+    {
+      "date": "3/30/2021",
+      "chapter": "1.Thess. 4",
+      "read": false
+    },
+    {
+      "date": "3/31/2021",
+      "chapter": "1.Thess. 5",
+      "read": false
+    },
+    {
+      "date": "4/1/2021",
+      "chapter": "2.Thess. 1",
+      "read": false
+    },
+    {
+      "date": "4/2/2021",
+      "chapter": "2.Thess. 2",
+      "read": false
+    },
+    {
+      "date": "4/3/2021",
+      "chapter": "2.Thess. 3",
+      "read": false
+    },
+    {
+      "date": "4/4/2021",
+      "chapter": "5.Mose 1",
+      "read": false
+    },
+    {
+      "date": "4/5/2021",
+      "chapter": "5.Mose 2",
+      "read": false
+    },
+    {
+      "date": "4/6/2021",
+      "chapter": "5.Mose 3",
+      "read": false
+    },
+    {
+      "date": "4/7/2021",
+      "chapter": "5.Mose 4",
+      "read": false
+    },
+    {
+      "date": "4/8/2021",
+      "chapter": "5.Mose 5",
+      "read": false
+    },
+    {
+      "date": "4/9/2021",
+      "chapter": "5.Mose 6",
+      "read": false
+    },
+    {
+      "date": "4/10/2021",
+      "chapter": "5.Mose 7",
+      "read": false
+    },
+    {
+      "date": "4/11/2021",
+      "chapter": "5.Mose 8",
+      "read": false
+    },
+    {
+      "date": "4/12/2021",
+      "chapter": "1.Kor. 1",
+      "read": false
+    },
+    {
+      "date": "4/13/2021",
+      "chapter": "1.Kor. 2",
+      "read": false
+    },
+    {
+      "date": "4/14/2021",
+      "chapter": "1.Kor. 3",
+      "read": false
+    },
+    {
+      "date": "4/15/2021",
+      "chapter": "1.Kor. 6",
+      "read": false
+    },
+    {
+      "date": "4/16/2021",
+      "chapter": "1.Kor. 7",
+      "read": false
+    },
+    {
+      "date": "4/17/2021",
+      "chapter": "1.Kor. 8",
+      "read": false
+    },
+    {
+      "date": "4/18/2021",
+      "chapter": "1.Kor. 9",
+      "read": false
+    },
+    {
+      "date": "4/19/2021",
+      "chapter": "1.Kor. 13",
+      "read": false
+    },
+    {
+      "date": "4/20/2021",
+      "chapter": "1.Kor. 15",
+      "read": false
+    },
+    {
+      "date": "4/21/2021",
+      "chapter": "5.Mose 27",
+      "read": false
+    },
+    {
+      "date": "4/22/2021",
+      "chapter": "5.Mose 28",
+      "read": false
+    },
+    {
+      "date": "4/23/2021",
+      "chapter": "5.Mose 29",
+      "read": false
+    },
+    {
+      "date": "4/24/2021",
+      "chapter": "5.Mose 30",
+      "read": false
+    },
+    {
+      "date": "4/25/2021",
+      "chapter": "5.Mose 32",
+      "read": false
+    },
+    {
+      "date": "4/26/2021",
+      "chapter": "5.Mose 34",
+      "read": false
+    },
+    {
+      "date": "4/27/2021",
+      "chapter": "Josua 1",
+      "read": false
+    },
+    {
+      "date": "4/28/2021",
+      "chapter": "Josua 2",
+      "read": false
+    },
+    {
+      "date": "4/29/2021",
+      "chapter": "Josua 3",
+      "read": false
+    },
+    {
+      "date": "4/30/2021",
+      "chapter": "Josua 4",
+      "read": false
+    },
+    {
+      "date": "5/1/2021",
+      "chapter": "Josua 6",
+      "read": false
+    },
+    {
+      "date": "5/2/2021",
+      "chapter": "Josua 23",
+      "read": false
+    },
+    {
+      "date": "5/3/2021",
+      "chapter": "Josua 24",
+      "read": false
+    },
+    {
+      "date": "5/4/2021",
+      "chapter": "2.Kor. 1",
+      "read": false
+    },
+    {
+      "date": "5/5/2021",
+      "chapter": "2.Kor. 4",
+      "read": false
+    },
+    {
+      "date": "5/6/2021",
+      "chapter": "2.Kor. 5",
+      "read": false
+    },
+    {
+      "date": "5/7/2021",
+      "chapter": "2.Kor. 8",
+      "read": false
+    },
+    {
+      "date": "5/8/2021",
+      "chapter": "2.Kor. 9",
+      "read": false
+    },
+    {
+      "date": "5/9/2021",
+      "chapter": "2.Kor. 12",
+      "read": false
+    },
+    {
+      "date": "5/10/2021",
+      "chapter": "Richter 2",
+      "read": false
+    },
+    {
+      "date": "5/11/2021",
+      "chapter": "Richter 6",
+      "read": false
+    },
+    {
+      "date": "5/12/2021",
+      "chapter": "Richter 7",
+      "read": false
+    },
+    {
+      "date": "5/13/2021",
+      "chapter": "Richter 14",
+      "read": false
+    },
+    {
+      "date": "5/14/2021",
+      "chapter": "Richter 15",
+      "read": false
+    },
+    {
+      "date": "5/15/2021",
+      "chapter": "Richter 16",
+      "read": false
+    },
+    {
+      "date": "5/16/2021",
+      "chapter": "Rut 1",
+      "read": false
+    },
+    {
+      "date": "5/17/2021",
+      "chapter": "Rut 2",
+      "read": false
+    },
+    {
+      "date": "5/18/2021",
+      "chapter": "Rut 3",
+      "read": false
+    },
+    {
+      "date": "5/19/2021",
+      "chapter": "Rut 4",
+      "read": false
+    },
+    {
+      "date": "5/20/2021",
+      "chapter": "Römer 1",
+      "read": false
+    },
+    {
+      "date": "5/21/2021",
+      "chapter": "Römer 2",
+      "read": false
+    },
+    {
+      "date": "5/22/2021",
+      "chapter": "Römer 3",
+      "read": false
+    },
+    {
+      "date": "5/23/2021",
+      "chapter": "Römer 4",
+      "read": false
+    },
+    {
+      "date": "5/24/2021",
+      "chapter": "Römer 5",
+      "read": false
+    },
+    {
+      "date": "5/25/2021",
+      "chapter": "Römer 6",
+      "read": false
+    },
+    {
+      "date": "5/26/2021",
+      "chapter": "Römer 7",
+      "read": false
+    },
+    {
+      "date": "5/27/2021",
+      "chapter": "Römer 8",
+      "read": false
+    },
+    {
+      "date": "5/28/2021",
+      "chapter": "Römer 12",
+      "read": false
+    },
+    {
+      "date": "5/29/2021",
+      "chapter": "Römer 13",
+      "read": false
+    },
+    {
+      "date": "5/30/2021",
+      "chapter": "Römer 14",
+      "read": false
+    },
+    {
+      "date": "5/31/2021",
+      "chapter": "1.Samuel 1",
+      "read": false
+    },
+    {
+      "date": "6/1/2021",
+      "chapter": "1.Samuel 2",
+      "read": false
+    },
+    {
+      "date": "6/2/2021",
+      "chapter": "1.Samuel 3",
+      "read": false
+    },
+    {
+      "date": "6/3/2021",
+      "chapter": "1.Samuel 8",
+      "read": false
+    },
+    {
+      "date": "6/4/2021",
+      "chapter": "1.Samuel 9",
+      "read": false
+    },
+    {
+      "date": "6/5/2021",
+      "chapter": "1.Samuel 10",
+      "read": false
+    },
+    {
+      "date": "6/6/2021",
+      "chapter": "1.Samuel 15",
+      "read": false
+    },
+    {
+      "date": "6/7/2021",
+      "chapter": "1.Samuel 16",
+      "read": false
+    },
+    {
+      "date": "6/8/2021",
+      "chapter": "1.Samuel 17",
+      "read": false
+    },
+    {
+      "date": "6/9/2021",
+      "chapter": "2.Samuel 5",
+      "read": false
+    },
+    {
+      "date": "6/10/2021",
+      "chapter": "2.Samuel 7",
+      "read": false
+    },
+    {
+      "date": "6/11/2021",
+      "chapter": "1.Chronik 17",
+      "read": false
+    },
+    {
+      "date": "6/12/2021",
+      "chapter": "2.Samuel 11",
+      "read": false
+    },
+    {
+      "date": "6/13/2021",
+      "chapter": "2.Samuel 12",
+      "read": false
+    },
+    {
+      "date": "6/14/2021",
+      "chapter": "Lukas 1",
+      "read": false
+    },
+    {
+      "date": "6/15/2021",
+      "chapter": "Lukas 2",
+      "read": false
+    },
+    {
+      "date": "6/16/2021",
+      "chapter": "Lukas 4",
+      "read": false
+    },
+    {
+      "date": "6/17/2021",
+      "chapter": "Lukas 7",
+      "read": false
+    },
+    {
+      "date": "6/18/2021",
+      "chapter": "Lukas 9",
+      "read": false
+    },
+    {
+      "date": "6/19/2021",
+      "chapter": "Lukas 13",
+      "read": false
+    },
+    {
+      "date": "6/20/2021",
+      "chapter": "Lukas 15",
+      "read": false
+    },
+    {
+      "date": "6/21/2021",
+      "chapter": "Lukas 16",
+      "read": false
+    },
+    {
+      "date": "6/22/2021",
+      "chapter": "Lukas 18",
+      "read": false
+    },
+    {
+      "date": "6/23/2021",
+      "chapter": "Lukas 19",
+      "read": false
+    },
+    {
+      "date": "6/24/2021",
+      "chapter": "Lukas 20",
+      "read": false
+    },
+    {
+      "date": "6/25/2021",
+      "chapter": "Lukas 24",
+      "read": false
+    },
+    {
+      "date": "6/26/2021",
+      "chapter": "1.Chronik 29",
+      "read": false
+    },
+    {
+      "date": "6/27/2021",
+      "chapter": "1.Könige 1",
+      "read": false
+    },
+    {
+      "date": "6/28/2021",
+      "chapter": "1.Könige 2",
+      "read": false
+    },
+    {
+      "date": "6/29/2021",
+      "chapter": "1.Könige 3",
+      "read": false
+    },
+    {
+      "date": "6/30/2021",
+      "chapter": "Hohelied",
+      "read": false
+    },
+    {
+      "date": "7/1/2021",
+      "chapter": "1.Könige 8",
+      "read": false
+    },
+    {
+      "date": "7/2/2021",
+      "chapter": "1.Könige 9",
+      "read": false
+    },
+    {
+      "date": "7/3/2021",
+      "chapter": "Prediger 3",
+      "read": false
+    },
+    {
+      "date": "7/4/2021",
+      "chapter": "Prediger 12",
+      "read": false
+    },
+    {
+      "date": "7/5/2021",
+      "chapter": "1.Könige 10",
+      "read": false
+    },
+    {
+      "date": "7/6/2021",
+      "chapter": "1.Könige 11",
+      "read": false
+    },
+    {
+      "date": "7/7/2021",
+      "chapter": "1.Könige 12",
+      "read": false
+    },
+    {
+      "date": "7/8/2021",
+      "chapter": "1.Könige 17",
+      "read": false
+    },
+    {
+      "date": "7/9/2021",
+      "chapter": "1.Könige 18",
+      "read": false
+    },
+    {
+      "date": "7/10/2021",
+      "chapter": "1.Könige 19",
+      "read": false
+    },
+    {
+      "date": "7/11/2021",
+      "chapter": "Obadja",
+      "read": false
+    },
+    {
+      "date": "7/12/2021",
+      "chapter": "2.Könige 1",
+      "read": false
+    },
+    {
+      "date": "7/13/2021",
+      "chapter": "2.Könige 2",
+      "read": false
+    },
+    {
+      "date": "7/14/2021",
+      "chapter": "2.Könige 4",
+      "read": false
+    },
+    {
+      "date": "7/15/2021",
+      "chapter": "2.Könige 5",
+      "read": false
+    },
+    {
+      "date": "7/16/2021",
+      "chapter": "2.Könige 6",
+      "read": false
+    },
+    {
+      "date": "7/17/2021",
+      "chapter": "2.Könige 7",
+      "read": false
+    },
+    {
+      "date": "7/18/2021",
+      "chapter": "2.Könige 8",
+      "read": false
+    },
+    {
+      "date": "7/19/2021",
+      "chapter": "2.Könige 18",
+      "read": false
+    },
+    {
+      "date": "7/20/2021",
+      "chapter": "2.Könige 19",
+      "read": false
+    },
+    {
+      "date": "7/21/2021",
+      "chapter": "2.Könige 20",
+      "read": false
+    },
+    {
+      "date": "7/22/2021",
+      "chapter": "2.Chronik 34",
+      "read": false
+    },
+    {
+      "date": "7/23/2021",
+      "chapter": "2.Chronik 35",
+      "read": false
+    },
+    {
+      "date": "7/24/2021",
+      "chapter": "2.Könige 25",
+      "read": false
+    },
+    {
+      "date": "7/25/2021",
+      "chapter": "Epheser 1",
+      "read": false
+    },
+    {
+      "date": "7/26/2021",
+      "chapter": "Epheser 2",
+      "read": false
+    },
+    {
+      "date": "7/27/2021",
+      "chapter": "Epheser 3",
+      "read": false
+    },
+    {
+      "date": "7/28/2021",
+      "chapter": "Epheser 4",
+      "read": false
+    },
+    {
+      "date": "7/29/2021",
+      "chapter": "Epheser 5",
+      "read": false
+    },
+    {
+      "date": "7/30/2021",
+      "chapter": "Epheser 6",
+      "read": false
+    },
+    {
+      "date": "7/31/2021",
+      "chapter": "Philipper 1",
+      "read": false
+    },
+    {
+      "date": "8/1/2021",
+      "chapter": "Philipper 2",
+      "read": false
+    },
+    {
+      "date": "8/2/2021",
+      "chapter": "Philipper 3",
+      "read": false
+    },
+    {
+      "date": "8/3/2021",
+      "chapter": "Philipper 4",
+      "read": false
+    },
+    {
+      "date": "8/4/2021",
+      "chapter": "Joel 2",
+      "read": false
+    },
+    {
+      "date": "8/5/2021",
+      "chapter": "Kolosser 1",
+      "read": false
+    },
+    {
+      "date": "8/6/2021",
+      "chapter": "Kolosser 2",
+      "read": false
+    },
+    {
+      "date": "8/7/2021",
+      "chapter": "Kolosser 3",
+      "read": false
+    },
+    {
+      "date": "8/8/2021",
+      "chapter": "Kolosser 4",
+      "read": false
+    },
+    {
+      "date": "8/9/2021",
+      "chapter": "Philemon",
+      "read": false
+    },
+    {
+      "date": "8/10/2021",
+      "chapter": "Jona 1",
+      "read": false
+    },
+    {
+      "date": "8/11/2021",
+      "chapter": "Jona 2",
+      "read": false
+    },
+    {
+      "date": "8/12/2021",
+      "chapter": "Jona 3",
+      "read": false
+    },
+    {
+      "date": "8/13/2021",
+      "chapter": "Jona 4",
+      "read": false
+    },
+    {
+      "date": "8/14/2021",
+      "chapter": "Amos 1",
+      "read": false
+    },
+    {
+      "date": "8/15/2021",
+      "chapter": "Amos 2",
+      "read": false
+    },
+    {
+      "date": "8/16/2021",
+      "chapter": "Amos 9",
+      "read": false
+    },
+    {
+      "date": "8/17/2021",
+      "chapter": "Hosea 4",
+      "read": false
+    },
+    {
+      "date": "8/18/2021",
+      "chapter": "Hosea 14",
+      "read": false
+    },
+    {
+      "date": "8/19/2021",
+      "chapter": "Micha 5",
+      "read": false
+    },
+    {
+      "date": "8/20/2021",
+      "chapter": "Micha 7",
+      "read": false
+    },
+    {
+      "date": "8/21/2021",
+      "chapter": "Apg 1",
+      "read": false
+    },
+    {
+      "date": "8/22/2021",
+      "chapter": "Apg 2",
+      "read": false
+    },
+    {
+      "date": "8/23/2021",
+      "chapter": "Apg 7",
+      "read": false
+    },
+    {
+      "date": "8/24/2021",
+      "chapter": "Apg 8",
+      "read": false
+    },
+    {
+      "date": "8/25/2021",
+      "chapter": "Apg 9",
+      "read": false
+    },
+    {
+      "date": "8/26/2021",
+      "chapter": "Apg 10",
+      "read": false
+    },
+    {
+      "date": "8/27/2021",
+      "chapter": "Apg 13",
+      "read": false
+    },
+    {
+      "date": "8/28/2021",
+      "chapter": "Apg 15",
+      "read": false
+    },
+    {
+      "date": "8/29/2021",
+      "chapter": "Apg 16",
+      "read": false
+    },
+    {
+      "date": "8/30/2021",
+      "chapter": "Apg 17",
+      "read": false
+    },
+    {
+      "date": "8/31/2021",
+      "chapter": "Apg 18",
+      "read": false
+    },
+    {
+      "date": "9/1/2021",
+      "chapter": "Apg 21",
+      "read": false
+    },
+    {
+      "date": "9/2/2021",
+      "chapter": "Apg 22",
+      "read": false
+    },
+    {
+      "date": "9/3/2021",
+      "chapter": "Apg 23",
+      "read": false
+    },
+    {
+      "date": "9/4/2021",
+      "chapter": "Apg 24",
+      "read": false
+    },
+    {
+      "date": "9/5/2021",
+      "chapter": "Apg 25",
+      "read": false
+    },
+    {
+      "date": "9/6/2021",
+      "chapter": "Apg 26",
+      "read": false
+    },
+    {
+      "date": "9/7/2021",
+      "chapter": "Apg 27",
+      "read": false
+    },
+    {
+      "date": "9/8/2021",
+      "chapter": "Apg 28",
+      "read": false
+    },
+    {
+      "date": "9/9/2021",
+      "chapter": "Jesaja 6",
+      "read": false
+    },
+    {
+      "date": "9/10/2021",
+      "chapter": "Jesaja 40",
+      "read": false
+    },
+    {
+      "date": "9/11/2021",
+      "chapter": "Jesaja 53",
+      "read": false
+    },
+    {
+      "date": "9/12/2021",
+      "chapter": "Jesaja 55",
+      "read": false
+    },
+    {
+      "date": "9/13/2021",
+      "chapter": "Jesaja 61",
+      "read": false
+    },
+    {
+      "date": "9/14/2021",
+      "chapter": "Psalm 104",
+      "read": false
+    },
+    {
+      "date": "9/15/2021",
+      "chapter": "Psalm 105",
+      "read": false
+    },
+    {
+      "date": "9/16/2021",
+      "chapter": "Psalm 106",
+      "read": false
+    },
+    {
+      "date": "9/17/2021",
+      "chapter": "Psalm 107",
+      "read": false
+    },
+    {
+      "date": "9/18/2021",
+      "chapter": "Psalm 145",
+      "read": false
+    },
+    {
+      "date": "9/19/2021",
+      "chapter": "Sprüche 8",
+      "read": false
+    },
+    {
+      "date": "9/20/2021",
+      "chapter": "Sprüche 9",
+      "read": false
+    },
+    {
+      "date": "9/21/2021",
+      "chapter": "Sprüche 31",
+      "read": false
+    },
+    {
+      "date": "9/22/2021",
+      "chapter": "1.Timotheus 1",
+      "read": false
+    },
+    {
+      "date": "9/23/2021",
+      "chapter": "1.Timotheus 2",
+      "read": false
+    },
+    {
+      "date": "9/24/2021",
+      "chapter": "1.Timotheus 3",
+      "read": false
+    },
+    {
+      "date": "9/25/2021",
+      "chapter": "1.Timotheus 4",
+      "read": false
+    },
+    {
+      "date": "9/26/2021",
+      "chapter": "1.Timotheus 5",
+      "read": false
+    },
+    {
+      "date": "9/27/2021",
+      "chapter": "1.Timotheus 6",
+      "read": false
+    },
+    {
+      "date": "9/28/2021",
+      "chapter": "Titus 1",
+      "read": false
+    },
+    {
+      "date": "9/29/2021",
+      "chapter": "Titus 2",
+      "read": false
+    },
+    {
+      "date": "9/30/2021",
+      "chapter": "Titus 3",
+      "read": false
+    },
+    {
+      "date": "10/1/2021",
+      "chapter": "1.Petrus 1",
+      "read": false
+    },
+    {
+      "date": "10/2/2021",
+      "chapter": "1.Petrus 2",
+      "read": false
+    },
+    {
+      "date": "10/3/2021",
+      "chapter": "1.Petrus 3",
+      "read": false
+    },
+    {
+      "date": "10/4/2021",
+      "chapter": "1.Petrus 4",
+      "read": false
+    },
+    {
+      "date": "10/5/2021",
+      "chapter": "1.Petrus 5",
+      "read": false
+    },
+    {
+      "date": "10/6/2021",
+      "chapter": "Nahum 1",
+      "read": false
+    },
+    {
+      "date": "10/7/2021",
+      "chapter": "Zefanja 3",
+      "read": false
+    },
+    {
+      "date": "10/8/2021",
+      "chapter": "Jeremia 18",
+      "read": false
+    },
+    {
+      "date": "10/9/2021",
+      "chapter": "Jeremia 19",
+      "read": false
+    },
+    {
+      "date": "10/10/2021",
+      "chapter": "Jeremia 31",
+      "read": false
+    },
+    {
+      "date": "10/11/2021",
+      "chapter": "Habakuk 3",
+      "read": false
+    },
+    {
+      "date": "10/12/2021",
+      "chapter": "Klagelieder 3",
+      "read": false
+    },
+    {
+      "date": "10/13/2021",
+      "chapter": "2.Timotheus 1",
+      "read": false
+    },
+    {
+      "date": "10/14/2021",
+      "chapter": "2.Timotheus 2",
+      "read": false
+    },
+    {
+      "date": "10/15/2021",
+      "chapter": "2.Timotheus 3",
+      "read": false
+    },
+    {
+      "date": "10/16/2021",
+      "chapter": "2.Timotheus 4",
+      "read": false
+    },
+    {
+      "date": "10/17/2021",
+      "chapter": "2.Petrus 1",
+      "read": false
+    },
+    {
+      "date": "10/18/2021",
+      "chapter": "2.Petrus 2",
+      "read": false
+    },
+    {
+      "date": "10/19/2021",
+      "chapter": "2.Petrus 3",
+      "read": false
+    },
+    {
+      "date": "10/20/2021",
+      "chapter": "Hebräer 1",
+      "read": false
+    },
+    {
+      "date": "10/21/2021",
+      "chapter": "Hebräer 2",
+      "read": false
+    },
+    {
+      "date": "10/22/2021",
+      "chapter": "Hebräer 4",
+      "read": false
+    },
+    {
+      "date": "10/23/2021",
+      "chapter": "Hebräer 8",
+      "read": false
+    },
+    {
+      "date": "10/24/2021",
+      "chapter": "Hebräer 9",
+      "read": false
+    },
+    {
+      "date": "10/25/2021",
+      "chapter": "Hebräer 11",
+      "read": false
+    },
+    {
+      "date": "10/26/2021",
+      "chapter": "Hebräer 12",
+      "read": false
+    },
+    {
+      "date": "10/27/2021",
+      "chapter": "Hebräer 13",
+      "read": false
+    },
+    {
+      "date": "10/28/2021",
+      "chapter": "Judas",
+      "read": false
+    },
+    {
+      "date": "10/29/2021",
+      "chapter": "Johannes 1",
+      "read": false
+    },
+    {
+      "date": "10/30/2021",
+      "chapter": "Johannes 3",
+      "read": false
+    },
+    {
+      "date": "10/31/2021",
+      "chapter": "Johannes 4",
+      "read": false
+    },
+    {
+      "date": "11/1/2021",
+      "chapter": "Johannes 6",
+      "read": false
+    },
+    {
+      "date": "11/2/2021",
+      "chapter": "Johannes 8",
+      "read": false
+    },
+    {
+      "date": "11/3/2021",
+      "chapter": "Johannes 10",
+      "read": false
+    },
+    {
+      "date": "11/4/2021",
+      "chapter": "Johannes 13",
+      "read": false
+    },
+    {
+      "date": "11/5/2021",
+      "chapter": "Johannes 14",
+      "read": false
+    },
+    {
+      "date": "11/6/2021",
+      "chapter": "Johannes 15",
+      "read": false
+    },
+    {
+      "date": "11/7/2021",
+      "chapter": "Johannes 16",
+      "read": false
+    },
+    {
+      "date": "11/8/2021",
+      "chapter": "Johannes 17",
+      "read": false
+    },
+    {
+      "date": "11/9/2021",
+      "chapter": "Johannes 20",
+      "read": false
+    },
+    {
+      "date": "11/10/2021",
+      "chapter": "Johannes 21",
+      "read": false
+    },
+    {
+      "date": "11/11/2021",
+      "chapter": "Hesekiel 1",
+      "read": false
+    },
+    {
+      "date": "11/12/2021",
+      "chapter": "Hesekiel 37",
+      "read": false
+    },
+    {
+      "date": "11/13/2021",
+      "chapter": "Daniel 1",
+      "read": false
+    },
+    {
+      "date": "11/14/2021",
+      "chapter": "Daniel 2",
+      "read": false
+    },
+    {
+      "date": "11/15/2021",
+      "chapter": "Daniel 3",
+      "read": false
+    },
+    {
+      "date": "11/16/2021",
+      "chapter": "Daniel 4",
+      "read": false
+    },
+    {
+      "date": "11/17/2021",
+      "chapter": "Daniel 5",
+      "read": false
+    },
+    {
+      "date": "11/18/2021",
+      "chapter": "Daniel 6",
+      "read": false
+    },
+    {
+      "date": "11/19/2021",
+      "chapter": "Daniel 9",
+      "read": false
+    },
+    {
+      "date": "11/20/2021",
+      "chapter": "1.Johannes 1",
+      "read": false
+    },
+    {
+      "date": "11/21/2021",
+      "chapter": "1.Johannes 2",
+      "read": false
+    },
+    {
+      "date": "11/22/2021",
+      "chapter": "1.Johannes 3",
+      "read": false
+    },
+    {
+      "date": "11/23/2021",
+      "chapter": "1.Johannes 4",
+      "read": false
+    },
+    {
+      "date": "11/24/2021",
+      "chapter": "1.Johannes 5",
+      "read": false
+    },
+    {
+      "date": "11/25/2021",
+      "chapter": "2.Johannes",
+      "read": false
+    },
+    {
+      "date": "11/26/2021",
+      "chapter": "2.Johannes",
+      "read": false
+    },
+    {
+      "date": "11/27/2021",
+      "chapter": "Esra 1",
+      "read": false
+    },
+    {
+      "date": "11/28/2021",
+      "chapter": "Esra 3",
+      "read": false
+    },
+    {
+      "date": "11/29/2021",
+      "chapter": "Esra 4",
+      "read": false
+    },
+    {
+      "date": "11/30/2021",
+      "chapter": "Esra 5",
+      "read": false
+    },
+    {
+      "date": "12/1/2021",
+      "chapter": "Esra 6",
+      "read": false
+    },
+    {
+      "date": "12/2/2021",
+      "chapter": "Haggai 1",
+      "read": false
+    },
+    {
+      "date": "12/3/2021",
+      "chapter": "Haggai 2",
+      "read": false
+    },
+    {
+      "date": "12/4/2021",
+      "chapter": "Sacharja 14",
+      "read": false
+    },
+    {
+      "date": "12/5/2021",
+      "chapter": "Ester 1",
+      "read": false
+    },
+    {
+      "date": "12/6/2021",
+      "chapter": "Ester 2",
+      "read": false
+    },
+    {
+      "date": "12/7/2021",
+      "chapter": "Ester 3",
+      "read": false
+    },
+    {
+      "date": "12/8/2021",
+      "chapter": "Ester 4",
+      "read": false
+    },
+    {
+      "date": "12/9/2021",
+      "chapter": "Ester 5",
+      "read": false
+    },
+    {
+      "date": "12/10/2021",
+      "chapter": "Ester 6",
+      "read": false
+    },
+    {
+      "date": "12/11/2021",
+      "chapter": "Ester 7",
+      "read": false
+    },
+    {
+      "date": "12/12/2021",
+      "chapter": "Ester 8",
+      "read": false
+    },
+    {
+      "date": "12/13/2021",
+      "chapter": "Ester 9",
+      "read": false
+    },
+    {
+      "date": "12/14/2021",
+      "chapter": "Offenbarung 1",
+      "read": false
+    },
+    {
+      "date": "12/15/2021",
+      "chapter": "Offenbarung 2",
+      "read": false
+    },
+    {
+      "date": "12/16/2021",
+      "chapter": "Offenbarung 3",
+      "read": false
+    },
+    {
+      "date": "12/17/2021",
+      "chapter": "Offenbarung 4",
+      "read": false
+    },
+    {
+      "date": "12/18/2021",
+      "chapter": "Offenbarung 5",
+      "read": false
+    },
+    {
+      "date": "12/19/2021",
+      "chapter": "Offenbarung 19",
+      "read": false
+    },
+    {
+      "date": "12/20/2021",
+      "chapter": "Offenbarung 20",
+      "read": false
+    },
+    {
+      "date": "12/21/2021",
+      "chapter": "Offenbarung 21",
+      "read": false
+    },
+    {
+      "date": "12/22/2021",
+      "chapter": "Offenbarung 22",
+      "read": false
+    },
+    {
+      "date": "12/23/2021",
+      "chapter": "Nehemia 1",
+      "read": false
+    },
+    {
+      "date": "12/24/2021",
+      "chapter": "Nehemia 2",
+      "read": false
+    },
+    {
+      "date": "12/25/2021",
+      "chapter": "Nehemia 4",
+      "read": false
+    },
+    {
+      "date": "12/26/2021",
+      "chapter": "Nehemia 5",
+      "read": false
+    },
+    {
+      "date": "12/27/2021",
+      "chapter": "Nehemia 6",
+      "read": false
+    },
+    {
+      "date": "12/28/2021",
+      "chapter": "Nehemia 8",
+      "read": false
+    },
+    {
+      "date": "12/29/2021",
+      "chapter": "Nehemia 9",
+      "read": false
+    },
+    {
+      "date": "12/30/2021",
+      "chapter": "Maleachi 3",
+      "read": false
+    },
+    {
+      "date": "12/31/2021",
+      "chapter": "Maleachi 4",
+      "read": false
+    }
+  ]
+}

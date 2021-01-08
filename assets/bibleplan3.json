@@ -1,0 +1,504 @@
+{
+  "plan": [
+    {
+      "date": "1/1/2021",
+      "chapter": "1. Creation Genesis 1:1–2:25",
+      "read": false
+    },
+    {
+      "date": "1/2/2021",
+      "chapter": "2. The Fall Genesis 3:1–3:24",
+      "read": false
+    },
+    {
+      "date": "1/3/2021",
+      "chapter": "3. The Flood Genesis 6:5 –7:24",
+      "read": false
+    },
+    {
+      "date": "1/4/2021",
+      "chapter": "4. God’s Covenant with Noah Genesis 8:1–9:17",
+      "read": false
+    },
+    {
+      "date": "1/5/2021",
+      "chapter": "5. Tower of Babel Genesis 11:1– 11:9",
+      "read": false
+    },
+    {
+      "date": "1/6/2021",
+      "chapter": "6. The Call of Abram Genesis 12:1–12:20",
+      "read": false
+    },
+    {
+      "date": "1/7/2021",
+      "chapter": "7. God’s Covenant with Abram Genesis 15:1–15:21",
+      "read": false
+    },
+    {
+      "date": "1/8/2021",
+      "chapter": "8. Isaac’s Birth and “ Sacriﬁce ” Genesis 21:1–22:19",
+      "read": false
+    },
+    {
+      "date": "1/9/2021",
+      "chapter": "9. Jacob and Esau Compete Genesis 27:1–28:22",
+      "read": false
+    },
+    {
+      "date": "1/10/2021",
+      "chapter": "10. Jacob and Esau Reconcile Genesis 32:1–33:20",
+      "read": false
+    },
+    {
+      "date": "1/11/2021",
+      "chapter": "11. Sold into Slavery Genesis 37:1–37:36",
+      "read": false
+    },
+    {
+      "date": "1/12/2021",
+      "chapter": "12. Prison and Promotion Genesis 39:1– 41:57",
+      "read": false
+    },
+    {
+      "date": "1/13/2021",
+      "chapter": "13. Ten Brothers Go to Egypt Genesis 42:1– 42:38",
+      "read": false
+    },
+    {
+      "date": "1/14/2021",
+      "chapter": "14. The Brothers Return Genesis 43:1– 44:34",
+      "read": false
+    },
+    {
+      "date": "1/15/2021",
+      "chapter": "15. Joseph Reveals His Identity Genesis 45:1– 46:7",
+      "read": false
+    },
+    {
+      "date": "1/16/2021",
+      "chapter": "16. Birth of Moses Exodus 1:1–2:25  ",
+      "read": false
+    },
+    {
+      "date": "1/17/2021",
+      "chapter": "17. The Burning Bush Exodus 3:1–4:17 ",
+      "read": false
+    },
+    {
+      "date": "1/18/2021",
+      "chapter": "18. The Ten Plagues Exodus 6:28–11:10 ",
+      "read": false
+    },
+    {
+      "date": "1/19/2021",
+      "chapter": "19. Passover and Exodus Exodus 12:1–12:42",
+      "read": false
+    },
+    {
+      "date": "1/20/2021",
+      "chapter": "20. Crossing the Red Sea Exodus 13:17–14:31",
+      "read": false
+    },
+    {
+      "date": "1/21/2021",
+      "chapter": "21. The Ten Commandments Exodus 19:1–20:21",
+      "read": false
+    },
+    {
+      "date": "1/22/2021",
+      "chapter": "22. The Golden Calf Exodus 32:1–34:35 ",
+      "read": false
+    },
+    {
+      "date": "1/23/2021",
+      "chapter": "23. Joshua Succeeds Moses Joshua 1:1–1:18 ",
+      "read": false
+    },
+    {
+      "date": "1/24/2021",
+      "chapter": "24. Crossing the Jordan Joshua 3:1–4:24 ",
+      "read": false
+    },
+    {
+      "date": "1/25/2021",
+      "chapter": "25. The Fall of Jericho Joshua 5:13–6:27",
+      "read": false
+    },
+    {
+      "date": "1/26/2021",
+      "chapter": "26. Israel‘s Disobedience Judges 2:6–3:6",
+      "read": false
+    },
+    {
+      "date": "1/27/2021",
+      "chapter": "27. Deborah Leads Israel Judges 4:1–5:31 ",
+      "read": false
+    },
+    {
+      "date": "1/28/2021",
+      "chapter": "28. Gideon Defeats the Midianites Judges 6:1–7:25 ",
+      "read": false
+    },
+    {
+      "date": "1/29/2021",
+      "chapter": "29. Sampson Defeats the Philistines Judges 13:1–16:31 ",
+      "read": false
+    },
+    {
+      "date": "1/30/2021",
+      "chapter": "30. The Story of Ruth Ruth 1:1–4:22",
+      "read": false
+    },
+    {
+      "date": "1/31/2021",
+      "chapter": "31. Samuel Listens to God 1 Samuel 1:1–3:21 ",
+      "read": false
+    },
+    {
+      "date": "2/1/2021",
+      "chapter": "32. King Saul 1 Samuel 8:1–10:27",
+      "read": false
+    },
+    {
+      "date": "2/2/2021",
+      "chapter": "33. David and Goliath 1 Samuel 16:1–18:16 ",
+      "read": false
+    },
+    {
+      "date": "2/3/2021",
+      "chapter": "34. David and Saul 1 Samuel 23:7–24:22  ",
+      "read": false
+    },
+    {
+      "date": "2/4/2021",
+      "chapter": "35. King David 2 Samuel 5:1–7:29",
+      "read": false
+    },
+    {
+      "date": "2/5/2021",
+      "chapter": "36. David and Bathsheba 2 Samuel 11:1–12:25  ",
+      "read": false
+    },
+    {
+      "date": "2/6/2021",
+      "chapter": "37. King Solomon 1 Kings 2:1–3:28",
+      "read": false
+    },
+    {
+      "date": "2/7/2021",
+      "chapter": "38. Solomon’s Temple  1 Kings 8:1–9:9 ",
+      "read": false
+    },
+    {
+      "date": "2/8/2021",
+      "chapter": "39. Elijah and the Prophets of Baal 1 Kings 16:29–19:18 ",
+      "read": false
+    },
+    {
+      "date": "2/9/2021",
+      "chapter": "40. The Fall of Jerusalem 2 Kings 25:1–25:30",
+      "read": false
+    },
+    {
+      "date": "2/10/2021",
+      "chapter": "41. The Lord I s My Shepherd Psalm 23:1–23:6 ",
+      "read": false
+    },
+    {
+      "date": "2/11/2021",
+      "chapter": "42. Have Mercy on Me Psalm 51:1–51:19 ",
+      "read": false
+    },
+    {
+      "date": "2/12/2021",
+      "chapter": "43. Praise the Lord Psalm 103:1–103:22 ",
+      "read": false
+    },
+    {
+      "date": "2/13/2021",
+      "chapter": "44. Godly Wisdom Proverbs 1:1–4:27 ",
+      "read": false
+    },
+    {
+      "date": "2/14/2021",
+      "chapter": "45. Proverbs of Solomon Proverbs 16:1–18:24",
+      "read": false
+    },
+    {
+      "date": "2/15/2021",
+      "chapter": "46. The Suﬀering Servant Isaiah 51:1–53:12 ",
+      "read": false
+    },
+    {
+      "date": "2/16/2021",
+      "chapter": "47. Jeremiah’s Call and Message Jeremiah 1:1–3:5 ",
+      "read": false
+    },
+    {
+      "date": "2/17/2021",
+      "chapter": "48. Daniel in the Lion’s Den Daniel 6:1–6:28",
+      "read": false
+    },
+    {
+      "date": "2/18/2021",
+      "chapter": "49. The Story of Jonah Jonah 1:1–4:11 ",
+      "read": false
+    },
+    {
+      "date": "2/19/2021",
+      "chapter": "50. The Day of Judgment Malachi 1:1–4:6",
+      "read": false
+    },
+    {
+      "date": "2/20/2021",
+      "chapter": "51. The Word Became Flesh John 1:1–1:18 ",
+      "read": false
+    },
+    {
+      "date": "2/21/2021",
+      "chapter": "52. Gabriel’s Message Luke 1:1–1:80 ",
+      "read": false
+    },
+    {
+      "date": "2/22/2021",
+      "chapter": "53. The Bir th of Jesus Luke 2:1–2:40 ",
+      "read": false
+    },
+    {
+      "date": "2/23/2021",
+      "chapter": "54. John the Baptist Luke 3:1–3:20 ",
+      "read": false
+    },
+    {
+      "date": "2/24/2021",
+      "chapter": "55. Baptism and Temptation Matthew 3:13–4:17",
+      "read": false
+    },
+    {
+      "date": "2/25/2021",
+      "chapter": "56. Sermon on the Mount – Par t 1 Matthew 5:1–6:4 ",
+      "read": false
+    },
+    {
+      "date": "2/26/2021",
+      "chapter": "57. Sermon on the Mount – Par t 2 Matthew 6:5–7:29 ",
+      "read": false
+    },
+    {
+      "date": "2/27/2021",
+      "chapter": "58. The Kingdom of Heaven Matthew 13:1–13:58 ",
+      "read": false
+    },
+    {
+      "date": "2/28/2021",
+      "chapter": "59. The Good Samaritan Luke 10:25–10:37 ",
+      "read": false
+    },
+    {
+      "date": "3/1/2021",
+      "chapter": "60. Lost and Found Luke 15:1–15:32",
+      "read": false
+    },
+    {
+      "date": "3/2/2021",
+      "chapter": "61. Feeding the Five Thousand Luke 9:1–9:36 ",
+      "read": false
+    },
+    {
+      "date": "3/3/2021",
+      "chapter": "62. Walking on Water Matthew 14:22–14:36 ",
+      "read": false
+    },
+    {
+      "date": "3/4/2021",
+      "chapter": "63. Healing the Blind Man John 9:1–9:41 ",
+      "read": false
+    },
+    {
+      "date": "3/5/2021",
+      "chapter": "64. Healing a Demon-possessed Man Mark 5:1–5:20 ",
+      "read": false
+    },
+    {
+      "date": "3/6/2021",
+      "chapter": "65. Raising Lazarus from the Dead John 11:1–11:57",
+      "read": false
+    },
+    {
+      "date": "3/7/2021",
+      "chapter": "66. The Last Supper Luke 22:1–22:46 ",
+      "read": false
+    },
+    {
+      "date": "3/8/2021",
+      "chapter": "67. Arrest and Trial John 18:1–18:40 ",
+      "read": false
+    },
+    {
+      "date": "3/9/2021",
+      "chapter": "68. The Cruciﬁxion John 19:1–19:42 ",
+      "read": false
+    },
+    {
+      "date": "3/10/2021",
+      "chapter": "69. The Resurrection John 20:1–21:25",
+      "read": false
+    },
+    {
+      "date": "3/11/2021",
+      "chapter": "70. The Ascension  Acts 1:1–1:11",
+      "read": false
+    },
+    {
+      "date": "3/12/2021",
+      "chapter": "71. The Day of Pentecost Acts 2:1–2:47 ",
+      "read": false
+    },
+    {
+      "date": "3/13/2021",
+      "chapter": "72. Grow th and Persecution Acts 3:1–4:37 ",
+      "read": false
+    },
+    {
+      "date": "3/14/2021",
+      "chapter": "73. The First Martyr Acts 6:8 –8:8 ",
+      "read": false
+    },
+    {
+      "date": "3/15/2021",
+      "chapter": "74. Sharing the Word Acts 8:26–8:40 ",
+      "read": false
+    },
+    {
+      "date": "3/16/2021",
+      "chapter": "75. Good News for All Acts 10:1–11:18",
+      "read": false
+    },
+    {
+      "date": "3/17/2021",
+      "chapter": "76. The Road to Damascus Acts 9:1–9:31 ",
+      "read": false
+    },
+    {
+      "date": "3/18/2021",
+      "chapter": "77. The First Missionar y Journey Acts 13:1–14:28 ",
+      "read": false
+    },
+    {
+      "date": "3/19/2021",
+      "chapter": "78. The Council at Jerusalem Acts 15:1–15:41 ",
+      "read": false
+    },
+    {
+      "date": "3/20/2021",
+      "chapter": "79. More Missionar y Journeys  Acts 16:1–20:38",
+      "read": false
+    },
+    {
+      "date": "3/21/2021",
+      "chapter": "80. The Trip to Rome  Acts 25:1–28:31",
+      "read": false
+    },
+    {
+      "date": "3/22/2021",
+      "chapter": "81. More than Conquerors Romans 8:1–8:39 ",
+      "read": false
+    },
+    {
+      "date": "3/23/2021",
+      "chapter": "82. The Fruit of the Spirit Galatians 5:16–6:10 ",
+      "read": false
+    },
+    {
+      "date": "3/24/2021",
+      "chapter": "83. The Armour of God Ephesians 6:10–6:20 ",
+      "read": false
+    },
+    {
+      "date": "3/25/2021",
+      "chapter": "84. Rejoice in the Lord Philippians 4:2–4:9 ",
+      "read": false
+    },
+    {
+      "date": "3/26/2021",
+      "chapter": "85. The Supremacy of Christ Colossians 1:1–1:23",
+      "read": false
+    },
+    {
+      "date": "3/27/2021",
+      "chapter": "86. Elders and Deacons 1 Timothy 3:1–3:16 ",
+      "read": false
+    },
+    {
+      "date": "3/28/2021",
+      "chapter": "87. The Love of Money 1 Timothy 6:3–6:21 ",
+      "read": false
+    },
+    {
+      "date": "3/29/2021",
+      "chapter": "88. Good Soldiers of Christ 2 Timothy 2:1–2:26 ",
+      "read": false
+    },
+    {
+      "date": "3/30/2021",
+      "chapter": "89. All Scripture Is God-breathed 2 Timothy 3:10–4:8 1 ",
+      "read": false
+    },
+    {
+      "date": "3/31/2021",
+      "chapter": "90. The Coming of the Lord Thessalonians 4:13–5:11",
+      "read": false
+    },
+    {
+      "date": "4/1/2021",
+      "chapter": "91. The Most Excellent Way 1 Corinthians 13:1–13:13 ",
+      "read": false
+    },
+    {
+      "date": "4/2/2021",
+      "chapter": "92. A New Creation in Christ 2 Corinthians 4:1–6:2 ",
+      "read": false
+    },
+    {
+      "date": "4/3/2021",
+      "chapter": "93. A Living Hope 1 Peter 1:1–2:12 ",
+      "read": false
+    },
+    {
+      "date": "4/4/2021",
+      "chapter": "94. Faith and Works James 1:1–2:26 ",
+      "read": false
+    },
+    {
+      "date": "4/5/2021",
+      "chapter": "95. Love One Anoth er 1 John 3:1",
+      "read": false
+    },
+    {
+      "date": "4/6/2021",
+      "chapter": "96. A Voice and a Vision Revelation 1:1–1:20 ",
+      "read": false
+    },
+    {
+      "date": "4/7/2021",
+      "chapter": "97. Messages to the Churches Revelation 2:1–3:22 ",
+      "read": false
+    },
+    {
+      "date": "4/8/2021",
+      "chapter": "98. The Throne of Heaven Revelation 4:1–7:17",
+      "read": false
+    },
+    {
+      "date": "4/9/2021",
+      "chapter": "99. Hallelujah!  Revelation 19:1–20:15",
+      "read": false
+    },
+    {
+      "date": "4/10/2021",
+      "chapter": "100. The New Jerusalem  Revelation 21:1–22:21",
+      "read": false
+    }
+  ]
+}
