@@ -1,11 +1,14 @@
 import 'dart:convert';
+import 'dart:ui';
 
 import 'package:die_bibel21/page/welcome.dart';
 import 'package:die_bibel21/widgets/customdrawer.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:intl/intl.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'data/const.dart';
 import 'data/sharedpreferences.dart';
@@ -273,22 +276,45 @@ class _MyHomePageState extends State<MyHomePage>
         Passage passage = _selectedBibleDay.elementAt(index);
         return Container(
           margin: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
-          child: Column(
-            children: [
-              CheckboxListTile(
-                  title: Text(passage.chapter),
-                  value: passage.read,
-                  onChanged: (bool value) {
-                    setState(() {
-                      passage.read = value;
-                      _setValue(passage.date, passage.chapter, value);
-                    });
-                  }),
-            ],
-          ),
+          child: Column(children: [
+            CheckboxListTile(
+                secondary: IconButton(
+                  onPressed: () => _openBrowserIntent(passage.chapter),
+                  icon: Icon(Icons.article_outlined, color: Colors.blue),
+                ),
+                title: Text(passage.chapter),
+                value: passage.read,
+                onChanged: (bool value) {
+                  setState(() {
+                    passage.read = value;
+                    _setValue(passage.date, passage.chapter, value);
+                  });
+                }),
+          ]),
         );
       },
     );
+  }
+
+  _openBrowserIntent(String chapter) async {
+    var translation = "NLB";
+    try {
+      translation = await _getTranslation() ?? "NLB";
+    } catch (exception) {
+      print("no translation set");
+    }
+
+    final url = Uri.encodeFull(
+        "https://bibelserver.com/" + translation + "/" + chapter);
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      throw 'Could not launch $url';
+    }
+  }
+
+  Future<String> _getTranslation() async {
+    return await SharedPref().read("translation");
   }
 
   bool _isSthToRead(DateTime dateTime) {

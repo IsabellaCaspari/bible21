@@ -13,6 +13,7 @@ environment:
 dependencies:
   table_calendar: ^2.3.3
   shared_preferences: any
+  url_launcher: any
 
   flutter:
     sdk: flutter
