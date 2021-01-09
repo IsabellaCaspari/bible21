@@ -273,7 +273,7 @@ class _MyHomePageState extends State<MyHomePage>
             CheckboxListTile(
                 secondary: IconButton(
                   onPressed: () => _openBrowserIntent(passage.chapter),
-                  icon: Icon(Icons.article_outlined, color: Colors.blue),
+                  icon: Icon(Icons.article_outlined, color: _getColor()),
                 ),
                 title: Text(passage.chapter),
                 value: passage.read,
@@ -289,20 +289,30 @@ class _MyHomePageState extends State<MyHomePage>
     );
   }
 
-  _openBrowserIntent(String chapter) async {
-    var translation = "NLB";
-    try {
-      translation = await _getTranslation() ?? "NLB";
-    } catch (exception) {
-      print("no translation set");
-    }
-
-    final url = Uri.encodeFull(
-        "https://bibelserver.com/" + translation + "/" + chapter);
-    if (await canLaunch(url)) {
-      await launch(url);
+  _getColor() {
+    if (widget.title == Constants.BIBLE_PLAN_3) {
+      return Colors.grey;
     } else {
-      throw 'Could not launch $url';
+      return Colors.blue;
+    }
+  }
+
+  _openBrowserIntent(String chapter) async {
+    if (widget.title != Constants.BIBLE_PLAN_3) {
+      var translation = "NLB";
+      try {
+        translation = await _getTranslation() ?? "NLB";
+      } catch (exception) {
+        print("no translation set");
+      }
+
+      final url = Uri.encodeFull(
+          "https://bibelserver.com/" + translation + "/" + chapter);
+      if (await canLaunch(url)) {
+        await launch(url);
+      } else {
+        throw 'Could not launch $url';
+      }
     }
   }
 

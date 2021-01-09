@@ -42,7 +42,18 @@ class _CustomDrawerState extends State<CustomDrawer> {
           ),
         ),
         ListTile(
-          leading: Icon(Icons.remove_circle_outlined, color: Colors.blue),
+          leading: Icon(Icons.article_outlined, color: Colors.blue),
+          title: Text('Übersetzung auswählen'),
+          onTap: () {
+            showDialog(
+              context: context,
+              builder: (BuildContext context) =>
+                  _buildTranslationDialog(context),
+            );
+          },
+        ),
+        ListTile(
+          leading: Icon(Icons.remove_circle_outline, color: Colors.blue),
           title: Text('Leseplan zurücksetzen'),
           onTap: () {
             showDialog(
@@ -53,33 +64,22 @@ class _CustomDrawerState extends State<CustomDrawer> {
           },
         ),
         ListTile(
-          leading: Icon(Icons.account_box_outlined, color: Colors.blue),
-          title: Text('Über'),
-          onTap: () {
-            showDialog(
-              context: context,
-              builder: (BuildContext context) => _buildAboutDialog(context),
-            );
-          },
-        ),
-        ListTile(
-          leading: Icon(Icons.article_outlined, color: Colors.blue),
-          title: Text('Übersetzung'),
-          onTap: () {
-            showDialog(
-              context: context,
-              builder: (BuildContext context) =>
-                  _buildTranslationDialog(context),
-            );
-          },
-        ),
-        ListTile(
-          leading: Icon(Icons.verified_user, color: Colors.blue),
+          leading: Icon(Icons.verified_user_outlined, color: Colors.blue),
           title: Text('Version der App'),
           onTap: () {
             showDialog(
               context: context,
               builder: (BuildContext context) => _buildVersionDialog(context),
+            );
+          },
+        ),
+        ListTile(
+          leading: Icon(Icons.account_box_outlined, color: Colors.blue),
+          title: Text('Über uns'),
+          onTap: () {
+            showDialog(
+              context: context,
+              builder: (BuildContext context) => _buildAboutDialog(context),
             );
           },
         ),
@@ -121,12 +121,12 @@ class _CustomDrawerState extends State<CustomDrawer> {
 
   Widget _buildTranslationDialog(BuildContext context) {
     return new AlertDialog(
-      title: const Text('Wähle deine Lieblingsübersetzung'),
+      title: const Text('Wähle Deine Lieblingsübersetzung'),
       content: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          Text("Welche Übersetzung möchtest du für deine Bibellese verwenden?"),
+          Text("Welche Übersetzung möchtest Du für Deinen Leseplan verwenden?"),
           FutureBuilder(
               future: _getTranslation(),
               builder: (context, snapshot) {
@@ -146,7 +146,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
             Navigator.of(context).pop();
           },
           textColor: Theme.of(context).primaryColor,
-          child: const Text('Zurück'),
+          child: const Text('Speichern'),
         ),
       ],
     );
