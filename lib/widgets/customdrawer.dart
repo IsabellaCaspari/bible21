@@ -1,13 +1,15 @@
 import 'package:die_bibel21/data/const.dart';
 import 'package:die_bibel21/data/sharedpreferences.dart';
+import 'package:die_bibel21/main.dart';
+import 'package:die_bibel21/model/bibleplan.dart';
 import 'package:die_bibel21/page/welcome.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class CustomDrawer extends StatefulWidget {
-  CustomDrawer({
-    Key key,
-  }) : super(key: key);
+  CustomDrawer({Key key, this.title, this.plan}) : super(key: key);
+  final String title;
+  final BiblePlan plan;
 
   @override
   _CustomDrawerState createState() => _CustomDrawerState();
@@ -53,6 +55,18 @@ class _CustomDrawerState extends State<CustomDrawer> {
           },
         ),
         ListTile(
+          leading:
+              Icon(Icons.swap_horizontal_circle_outlined, color: Colors.blue),
+          title: Text('Leseplan wechseln'),
+          onTap: () {
+            showDialog(
+              context: context,
+              builder: (BuildContext context) =>
+                  _buildBibelPlanSwapDialog(context),
+            );
+          },
+        ),
+        ListTile(
           leading: Icon(Icons.remove_circle_outline, color: Colors.blue),
           title: Text('Leseplan zurücksetzen'),
           onTap: () {
@@ -94,19 +108,54 @@ class _CustomDrawerState extends State<CustomDrawer> {
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          Text("Möchtest Du alle bisher gespeicherten Einträge zurücksetzen?"),
+          Text("Möchtest Du den ausgewählten Leseplan zurücksetzen?"),
         ],
       ),
       actions: <Widget>[
         FlatButton(
           onPressed: () {
-            SharedPref().remove("bible_shared_pref");
-            SharedPref().remove("bibleplan");
+            SharedPref().remove(widget.title);
+            Navigator.of(context).pop();
+            Navigator.push(
+                context,
+                MaterialPageRoute(
+                    builder: (context) => MyHomePage(
+                      title: widget.title,
+                    )));
+          },
+          textColor: Theme.of(context).primaryColor,
+          child: const Text('Ja'),
+        ),
+        FlatButton(
+          onPressed: () {
+            Navigator.of(context).pop();
+          },
+          textColor: Theme.of(context).primaryColor,
+          child: const Text('Doch nicht'),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildBibelPlanSwapDialog(BuildContext context) {
+    return new AlertDialog(
+      title: const Text('Leseplan wechseln'),
+      content: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: <Widget>[
+          Text("Hier kannst Du den Leseplan wechseln."),
+        ],
+      ),
+      actions: <Widget>[
+        FlatButton(
+          onPressed: () {
+            SharedPref().save(widget.title, widget.plan);
             Navigator.push(context,
                 MaterialPageRoute(builder: (context) => WelcomePage()));
           },
           textColor: Theme.of(context).primaryColor,
-          child: const Text('Ja'),
+          child: const Text('Wechseln'),
         ),
         FlatButton(
           onPressed: () {

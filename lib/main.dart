@@ -3,7 +3,6 @@ import 'dart:ui';
 
 import 'package:die_bibel21/page/welcome.dart';
 import 'package:die_bibel21/widgets/customdrawer.dart';
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:table_calendar/table_calendar.dart';
@@ -63,7 +62,6 @@ class _MyHomePageState extends State<MyHomePage>
   Map<DateTime, List<Passage>> _passagesMap;
   Map<DateTime, List> _mapBibleDays;
   Future myFuture;
-  static const BIBLE_SHARED_PREF = "bible_shared_pref";
 
   @override
   void initState() {
@@ -95,8 +93,7 @@ class _MyHomePageState extends State<MyHomePage>
 
   Future<BiblePlan> fetchData() async {
     try {
-      var bibleplan =
-          BiblePlan.fromJson(await SharedPref().read(BIBLE_SHARED_PREF));
+      var bibleplan = BiblePlan.fromJson(await SharedPref().read(widget.title));
       if (bibleplan != null) {
         return bibleplan;
       } else {
@@ -125,7 +122,7 @@ class _MyHomePageState extends State<MyHomePage>
   }
 
   _savePlan() async {
-    await SharedPref().save(BIBLE_SHARED_PREF, _plan);
+    await SharedPref().save(widget.title, _plan);
   }
 
   void _onDaySelected(DateTime day, List events, List holidays) {
@@ -163,7 +160,7 @@ class _MyHomePageState extends State<MyHomePage>
         title: Text(widget.title),
       ),
       drawer: Drawer(
-        child: CustomDrawer(),
+        child: CustomDrawer(title: widget.title, plan: _plan,),
       ),
       body: FutureBuilder(
         future: myFuture,
