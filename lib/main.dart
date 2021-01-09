@@ -90,14 +90,7 @@ class _MyHomePageState extends State<MyHomePage>
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     super.didChangeAppLifecycleState(state);
-    print("APP LIFECYLE IS CALLED");
     _savePlan();
-    if (state == AppLifecycleState.paused) {
-      // went to Background
-    }
-    if (state == AppLifecycleState.resumed) {
-      // came back to Foreground
-    }
   }
 
   Future<BiblePlan> fetchData() async {
