@@ -1,5 +1,6 @@
 import 'package:die_bibel21/data/const.dart';
 import 'package:die_bibel21/data/sharedpreferences.dart';
+import 'package:die_bibel21/page/startdate.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -86,12 +87,21 @@ class _WelcomePageState extends State<WelcomePage> {
     );
   }
 
-  _onNextClicked() {
-    SharedPref().save("bibleplan", bibleReadingplan);
-    Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => MyHomePage(title: bibleReadingplan),
-        ));
+  _onNextClicked() async {
+    await SharedPref().save("bibleplan", bibleReadingplan);
+    try {
+      await SharedPref().read(bibleReadingplan);
+      Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => MyHomePage(title: bibleReadingplan),
+          ));
+    } catch (exception) {
+      Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => StartDatePage(title: bibleReadingplan),
+          ));
+    }
   }
 }

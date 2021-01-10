@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:ui';
 
+import 'package:die_bibel21/page/startdate.dart';
 import 'package:die_bibel21/page/welcome.dart';
 import 'package:die_bibel21/widgets/customdrawer.dart';
 import 'package:flutter/material.dart';
@@ -46,8 +47,9 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key key, this.title, this.startDate}) : super(key: key);
   final String title;
+  final DateTime startDate;
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
@@ -88,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage>
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     super.didChangeAppLifecycleState(state);
-    _savePlan();
+    _savePlan(_plan);
   }
 
   Future<BiblePlan> fetchData() async {
@@ -106,6 +108,9 @@ class _MyHomePageState extends State<MyHomePage>
   }
 
   Future<BiblePlan> fetchDataFromFile() async {
+    if (widget.startDate == null) {
+      _chooseStartDate();
+    }
     var path = "assets/bibleplan1.json";
 
     if (widget.title == Constants.BIBLE_PLAN_1) {
@@ -118,11 +123,32 @@ class _MyHomePageState extends State<MyHomePage>
 
     String data = await DefaultAssetBundle.of(context).loadString(path);
     var parsedJson = json.decode(data);
-    return BiblePlan.fromJson(parsedJson);
+    var bibleplan = BiblePlan.fromJson(parsedJson);
+
+    var starDatetOfPlan = new DateTime.utc(2020, 12, 31);
+    if (widget.startDate != null && widget.startDate != starDatetOfPlan) {
+      var diff = widget.startDate.difference(starDatetOfPlan);
+      bibleplan.passages.forEach((passage) {
+        passage.date = passage.date.add(diff);
+      });
+    }
+
+    _savePlan(bibleplan);
+    return bibleplan;
   }
 
-  _savePlan() async {
-    await SharedPref().save(widget.title, _plan);
+  _chooseStartDate() {
+    Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => StartDatePage(title: widget.title),
+        ));
+  }
+
+  _savePlan(bibleplan) async {
+    if (bibleplan != null){
+      await SharedPref().save(widget.title, bibleplan);
+    }
   }
 
   void _onDaySelected(DateTime day, List events, List holidays) {
@@ -160,7 +186,10 @@ class _MyHomePageState extends State<MyHomePage>
         title: Text(widget.title),
       ),
       drawer: Drawer(
-        child: CustomDrawer(title: widget.title, plan: _plan,),
+        child: CustomDrawer(
+          title: widget.title,
+          plan: _plan,
+        ),
       ),
       body: FutureBuilder(
         future: myFuture,

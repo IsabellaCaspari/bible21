@@ -2,6 +2,7 @@ import 'package:die_bibel21/data/const.dart';
 import 'package:die_bibel21/data/sharedpreferences.dart';
 import 'package:die_bibel21/main.dart';
 import 'package:die_bibel21/model/bibleplan.dart';
+import 'package:die_bibel21/page/startdate.dart';
 import 'package:die_bibel21/page/welcome.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -108,7 +109,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          Text("Möchtest Du den ausgewählten Leseplan zurücksetzen?"),
+          Text("Möchtest Du den Leseplan "+widget.title+ "neu starten?"),
         ],
       ),
       actions: <Widget>[
@@ -119,9 +120,9 @@ class _CustomDrawerState extends State<CustomDrawer> {
             Navigator.push(
                 context,
                 MaterialPageRoute(
-                    builder: (context) => MyHomePage(
-                      title: widget.title,
-                    )));
+                    builder: (context) => StartDatePage(
+                          title: widget.title,
+                        )));
           },
           textColor: Theme.of(context).primaryColor,
           child: const Text('Ja'),
@@ -149,8 +150,10 @@ class _CustomDrawerState extends State<CustomDrawer> {
       ),
       actions: <Widget>[
         FlatButton(
-          onPressed: () {
-            SharedPref().save(widget.title, widget.plan);
+          onPressed: () async {
+            if (widget.plan != null) {
+              await SharedPref().save(widget.title, widget.plan);
+            }
             Navigator.push(context,
                 MaterialPageRoute(builder: (context) => WelcomePage()));
           },
