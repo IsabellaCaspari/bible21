@@ -1,6 +1,6 @@
 # Die bibel21
 
-A new Flutter project.
+A flutter app that lets you read through the bible in a year.
 
 ## Getting Started
 
