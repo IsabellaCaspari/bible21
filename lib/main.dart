@@ -119,13 +119,22 @@ class _MyHomePageState extends State<MyHomePage>
       path = "assets/bibleplan2.json";
     } else if (widget.title == Constants.BIBLE_PLAN_3) {
       path = "assets/bibleplan3.json";
+    } else if (widget.title == Constants.BIBLE_PLAN_4) {
+      path = "assets/bibleplan4.json";
+    } else if (widget.title == Constants.BIBLE_PLAN_5) {
+      path = "assets/bibleplan5.json";
     }
 
     String data = await DefaultAssetBundle.of(context).loadString(path);
     var parsedJson = json.decode(data);
     var bibleplan = BiblePlan.fromJson(parsedJson);
-
     var starDatetOfPlan = new DateTime.utc(2020, 12, 31);
+
+    if (widget.title == Constants.BIBLE_PLAN_4 ||
+        widget.title == Constants.BIBLE_PLAN_5) {
+      starDatetOfPlan = new DateTime.utc(2021, 12, 31);
+    }
+
     if (widget.startDate != null && widget.startDate != starDatetOfPlan) {
       var diff = widget.startDate.difference(starDatetOfPlan);
       bibleplan.passages.forEach((passage) {
@@ -146,7 +155,7 @@ class _MyHomePageState extends State<MyHomePage>
   }
 
   _savePlan(bibleplan) async {
-    if (bibleplan != null){
+    if (bibleplan != null) {
       await SharedPref().save(widget.title, bibleplan);
     }
   }

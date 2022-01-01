@@ -63,6 +63,26 @@ class _WelcomePageState extends State<WelcomePage> {
                   });
                 },
               ),
+              RadioListTile(
+                title: const Text(Constants.BIBLE_PLAN_4 ),
+                value: Constants.BIBLE_PLAN_4,
+                groupValue: bibleReadingplan,
+                onChanged: (String value) {
+                  setState(() {
+                    bibleReadingplan = value;
+                  });
+                },
+              ),
+              RadioListTile(
+                title: const Text(Constants.BIBLE_PLAN_5),
+                value: Constants.BIBLE_PLAN_5,
+                groupValue: bibleReadingplan,
+                onChanged: (String value) {
+                  setState(() {
+                    bibleReadingplan = value;
+                  });
+                },
+              ),
               Padding(
                 padding: const EdgeInsets.only(top: 20.0),
                 child: SizedBox(

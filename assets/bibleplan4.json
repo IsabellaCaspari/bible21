@@ -1,0 +1,4109 @@
+{
+  "plan": [
+    {
+      "date": "1/1/2022",
+      "chapter": "1. Mose 1 ",
+      "read": false
+    },
+    {
+      "date": "1/2/2022",
+      "chapter": "1. Mose 2 ",
+      "read": false
+    },
+    {
+      "date": "1/3/2022",
+      "chapter": "1. Mose 3 ",
+      "read": false
+    },
+    {
+      "date": "1/4/2022",
+      "chapter": "1. Mose 4 ",
+      "read": false
+    },
+    {
+      "date": "1/5/2022",
+      "chapter": "1. Mose 5 ",
+      "read": false
+    },
+    {
+      "date": "1/6/2022",
+      "chapter": "1. Mose 6 ",
+      "read": false
+    },
+    {
+      "date": "1/7/2022",
+      "chapter": "1. Mose 7 ",
+      "read": false
+    },
+    {
+      "date": "1/8/2022",
+      "chapter": "1. Mose 8 ",
+      "read": false
+    },
+    {
+      "date": "1/9/2022",
+      "chapter": "1. Mose 9 ",
+      "read": false
+    },
+    {
+      "date": "1/10/2022",
+      "chapter": "1. Mose 10 ",
+      "read": false
+    },
+    {
+      "date": "1/11/2022",
+      "chapter": "1. Mose 11 ",
+      "read": false
+    },
+    {
+      "date": "1/12/2022",
+      "chapter": "1. Mose 12 ",
+      "read": false
+    },
+    {
+      "date": "1/13/2022",
+      "chapter": "1. Mose 13 ",
+      "read": false
+    },
+    {
+      "date": "1/14/2022",
+      "chapter": "1. Mose 14 ",
+      "read": false
+    },
+    {
+      "date": "1/15/2022",
+      "chapter": "1. Mose 15 ",
+      "read": false
+    },
+    {
+      "date": "1/16/2022",
+      "chapter": "1. Mose 16 ",
+      "read": false
+    },
+    {
+      "date": "1/17/2022",
+      "chapter": "1. Mose 17 ",
+      "read": false
+    },
+    {
+      "date": "1/18/2022",
+      "chapter": "1. Mose 18 ",
+      "read": false
+    },
+    {
+      "date": "1/19/2022",
+      "chapter": "1. Mose 19 ",
+      "read": false
+    },
+    {
+      "date": "1/20/2022",
+      "chapter": "1. Mose 20 ",
+      "read": false
+    },
+    {
+      "date": "1/21/2022",
+      "chapter": "1. Mose 21 ",
+      "read": false
+    },
+    {
+      "date": "1/22/2022",
+      "chapter": "1. Mose 22 ",
+      "read": false
+    },
+    {
+      "date": "1/23/2022",
+      "chapter": "1. Mose 23 ",
+      "read": false
+    },
+    {
+      "date": "1/24/2022",
+      "chapter": "1. Mose 24 ",
+      "read": false
+    },
+    {
+      "date": "1/25/2022",
+      "chapter": "Hiob 1 ",
+      "read": false
+    },
+    {
+      "date": "1/26/2022",
+      "chapter": "Hiob 2 ",
+      "read": false
+    },
+    {
+      "date": "1/27/2022",
+      "chapter": "Hiob 3-4 ",
+      "read": false
+    },
+    {
+      "date": "1/28/2022",
+      "chapter": "Hiob 5 ",
+      "read": false
+    },
+    {
+      "date": "1/29/2022",
+      "chapter": "Hiob 6 ",
+      "read": false
+    },
+    {
+      "date": "1/30/2022",
+      "chapter": "Hiob 7 ",
+      "read": false
+    },
+    {
+      "date": "1/31/2022",
+      "chapter": "Hiob 8 ",
+      "read": false
+    },
+    {
+      "date": "2/1/2022",
+      "chapter": "Hiob 9 ",
+      "read": false
+    },
+    {
+      "date": "2/2/2022",
+      "chapter": "Hiob 10 ",
+      "read": false
+    },
+    {
+      "date": "2/3/2022",
+      "chapter": "Hiob 11 ",
+      "read": false
+    },
+    {
+      "date": "2/4/2022",
+      "chapter": "Hiob 12-13 ",
+      "read": false
+    },
+    {
+      "date": "2/5/2022",
+      "chapter": "Hiob 14 ",
+      "read": false
+    },
+    {
+      "date": "2/6/2022",
+      "chapter": "Hiob 15 ",
+      "read": false
+    },
+    {
+      "date": "2/7/2022",
+      "chapter": "Hiob 16 ",
+      "read": false
+    },
+    {
+      "date": "2/8/2022",
+      "chapter": "Hiob 17 ",
+      "read": false
+    },
+    {
+      "date": "2/9/2022",
+      "chapter": "Hiob 18 ",
+      "read": false
+    },
+    {
+      "date": "2/10/2022",
+      "chapter": "Hiob 19 ",
+      "read": false
+    },
+    {
+      "date": "2/11/2022",
+      "chapter": "Hiob 20 ",
+      "read": false
+    },
+    {
+      "date": "2/12/2022",
+      "chapter": "Hiob 21 ",
+      "read": false
+    },
+    {
+      "date": "2/13/2022",
+      "chapter": "Hiob 22 ",
+      "read": false
+    },
+    {
+      "date": "2/14/2022",
+      "chapter": "Hiob 23 ",
+      "read": false
+    },
+    {
+      "date": "2/15/2022",
+      "chapter": "Hiob 24-25 ",
+      "read": false
+    },
+    {
+      "date": "2/16/2022",
+      "chapter": "Hiob 26 ",
+      "read": false
+    },
+    {
+      "date": "2/17/2022",
+      "chapter": "Hiob 27 ",
+      "read": false
+    },
+    {
+      "date": "2/18/2022",
+      "chapter": "Hiob 28 ",
+      "read": false
+    },
+    {
+      "date": "2/19/2022",
+      "chapter": "Hiob 29 ",
+      "read": false
+    },
+    {
+      "date": "2/20/2022",
+      "chapter": "Hiob 30 ",
+      "read": false
+    },
+    {
+      "date": "2/21/2022",
+      "chapter": "Hiob 31 ",
+      "read": false
+    },
+    {
+      "date": "2/22/2022",
+      "chapter": "Hiob 32 ",
+      "read": false
+    },
+    {
+      "date": "2/23/2022",
+      "chapter": "Hiob 33 ",
+      "read": false
+    },
+    {
+      "date": "2/24/2022",
+      "chapter": "Hiob 34 ",
+      "read": false
+    },
+    {
+      "date": "2/25/2022",
+      "chapter": "Hiob 35 ",
+      "read": false
+    },
+    {
+      "date": "2/26/2022",
+      "chapter": "Hiob 36-37 ",
+      "read": false
+    },
+    {
+      "date": "2/27/2022",
+      "chapter": "Hiob 38 ",
+      "read": false
+    },
+    {
+      "date": "2/28/2022",
+      "chapter": "Hiob 39 ",
+      "read": false
+    },
+    {
+      "date": "3/1/2022",
+      "chapter": "Hiob 40 ",
+      "read": false
+    },
+    {
+      "date": "3/2/2022",
+      "chapter": "Hiob 41 ",
+      "read": false
+    },
+    {
+      "date": "3/3/2022",
+      "chapter": "Hiob 42 ",
+      "read": false
+    },
+    {
+      "date": "3/4/2022",
+      "chapter": "1.Mose 25 ",
+      "read": false
+    },
+    {
+      "date": "3/5/2022",
+      "chapter": "1.Mose 26 ",
+      "read": false
+    },
+    {
+      "date": "3/6/2022",
+      "chapter": "1.Mose 27 ",
+      "read": false
+    },
+    {
+      "date": "3/7/2022",
+      "chapter": "1.Mose 28 ",
+      "read": false
+    },
+    {
+      "date": "3/8/2022",
+      "chapter": "1.Mose 29 ",
+      "read": false
+    },
+    {
+      "date": "3/9/2022",
+      "chapter": "1.Mose 30 ",
+      "read": false
+    },
+    {
+      "date": "3/10/2022",
+      "chapter": "1.Mose 31 ",
+      "read": false
+    },
+    {
+      "date": "3/11/2022",
+      "chapter": "1.Mose 32 ",
+      "read": false
+    },
+    {
+      "date": "3/12/2022",
+      "chapter": "1.Mose 33 ",
+      "read": false
+    },
+    {
+      "date": "3/13/2022",
+      "chapter": "1.Mose 34 ",
+      "read": false
+    },
+    {
+      "date": "3/14/2022",
+      "chapter": "1.Mose 35 ",
+      "read": false
+    },
+    {
+      "date": "3/15/2022",
+      "chapter": "1.Mose 36 ",
+      "read": false
+    },
+    {
+      "date": "3/16/2022",
+      "chapter": "1.Mose 37 ",
+      "read": false
+    },
+    {
+      "date": "3/17/2022",
+      "chapter": "1.Mose 38 ",
+      "read": false
+    },
+    {
+      "date": "3/18/2022",
+      "chapter": "1.Mose 39 ",
+      "read": false
+    },
+    {
+      "date": "3/19/2022",
+      "chapter": "1.Mose 40 ",
+      "read": false
+    },
+    {
+      "date": "3/20/2022",
+      "chapter": "1.Mose 41 ",
+      "read": false
+    },
+    {
+      "date": "3/21/2022",
+      "chapter": "1.Mose 42 ",
+      "read": false
+    },
+    {
+      "date": "3/22/2022",
+      "chapter": "1.Mose 43 ",
+      "read": false
+    },
+    {
+      "date": "3/23/2022",
+      "chapter": "1.Mose 44 ",
+      "read": false
+    },
+    {
+      "date": "3/24/2022",
+      "chapter": "1.Mose 45 ",
+      "read": false
+    },
+    {
+      "date": "3/25/2022",
+      "chapter": "1.Mose 46 ",
+      "read": false
+    },
+    {
+      "date": "3/26/2022",
+      "chapter": "1.Mose 47 ",
+      "read": false
+    },
+    {
+      "date": "3/27/2022",
+      "chapter": "1.Mose 48 ",
+      "read": false
+    },
+    {
+      "date": "3/28/2022",
+      "chapter": "1.Mose 49 ",
+      "read": false
+    },
+    {
+      "date": "3/29/2022",
+      "chapter": "1.Mose 50 ",
+      "read": false
+    },
+    {
+      "date": "3/30/2022",
+      "chapter": "2. Mose 1 ",
+      "read": false
+    },
+    {
+      "date": "3/31/2022",
+      "chapter": "2. Mose 2 ",
+      "read": false
+    },
+    {
+      "date": "4/1/2022",
+      "chapter": "2.Mose 3 ",
+      "read": false
+    },
+    {
+      "date": "4/2/2022",
+      "chapter": "2.Mose 4 ",
+      "read": false
+    },
+    {
+      "date": "4/3/2022",
+      "chapter": "2.Mose 5 ",
+      "read": false
+    },
+    {
+      "date": "4/4/2022",
+      "chapter": "2.Mose 6 ",
+      "read": false
+    },
+    {
+      "date": "4/5/2022",
+      "chapter": "2.Mose 7 ",
+      "read": false
+    },
+    {
+      "date": "4/6/2022",
+      "chapter": "2.Mose 8 ",
+      "read": false
+    },
+    {
+      "date": "4/7/2022",
+      "chapter": "2.Mose 9 ",
+      "read": false
+    },
+    {
+      "date": "4/8/2022",
+      "chapter": "2.Mose 10 ",
+      "read": false
+    },
+    {
+      "date": "4/9/2022",
+      "chapter": "2.Mose 11 ",
+      "read": false
+    },
+    {
+      "date": "4/10/2022",
+      "chapter": "2.Mose 12 ",
+      "read": false
+    },
+    {
+      "date": "4/11/2022",
+      "chapter": "2.Mose 13 ",
+      "read": false
+    },
+    {
+      "date": "4/12/2022",
+      "chapter": "2.Mose 14 ",
+      "read": false
+    },
+    {
+      "date": "4/13/2022",
+      "chapter": "2.Mose 15 ",
+      "read": false
+    },
+    {
+      "date": "4/14/2022",
+      "chapter": "2.Mose 16 ",
+      "read": false
+    },
+    {
+      "date": "4/15/2022",
+      "chapter": "2.Mose 17 ",
+      "read": false
+    },
+    {
+      "date": "4/16/2022",
+      "chapter": "2.Mose 18 ",
+      "read": false
+    },
+    {
+      "date": "4/17/2022",
+      "chapter": "2. Mose 19 ",
+      "read": false
+    },
+    {
+      "date": "4/18/2022",
+      "chapter": "2.Mose 20 ",
+      "read": false
+    },
+    {
+      "date": "4/19/2022",
+      "chapter": "2.Mose 21 ",
+      "read": false
+    },
+    {
+      "date": "4/20/2022",
+      "chapter": "2.Mose 22 ",
+      "read": false
+    },
+    {
+      "date": "4/21/2022",
+      "chapter": "2.Mose 23 ",
+      "read": false
+    },
+    {
+      "date": "4/22/2022",
+      "chapter": "2.Mose 24 ",
+      "read": false
+    },
+    {
+      "date": "4/23/2022",
+      "chapter": "2.Mose 25 ",
+      "read": false
+    },
+    {
+      "date": "4/24/2022",
+      "chapter": "2.Mose 26 ",
+      "read": false
+    },
+    {
+      "date": "4/25/2022",
+      "chapter": "2.Mose 27 ",
+      "read": false
+    },
+    {
+      "date": "4/26/2022",
+      "chapter": "2.Mose 28 ",
+      "read": false
+    },
+    {
+      "date": "4/27/2022",
+      "chapter": "2.Mose 29 ",
+      "read": false
+    },
+    {
+      "date": "4/28/2022",
+      "chapter": "2.Mose 30 ",
+      "read": false
+    },
+    {
+      "date": "4/29/2022",
+      "chapter": "2.Mose 31 ",
+      "read": false
+    },
+    {
+      "date": "4/30/2022",
+      "chapter": "2.Mose 32 ",
+      "read": false
+    },
+    {
+      "date": "5/1/2022",
+      "chapter": "2.Mose 33 ",
+      "read": false
+    },
+    {
+      "date": "5/2/2022",
+      "chapter": "2.Mose 34 ",
+      "read": false
+    },
+    {
+      "date": "5/3/2022",
+      "chapter": "2.Mose 35 ",
+      "read": false
+    },
+    {
+      "date": "5/4/2022",
+      "chapter": "2.Mose 36 ",
+      "read": false
+    },
+    {
+      "date": "5/5/2022",
+      "chapter": "2.Mose 37 ",
+      "read": false
+    },
+    {
+      "date": "5/6/2022",
+      "chapter": "2.Mose 38 ",
+      "read": false
+    },
+    {
+      "date": "5/7/2022",
+      "chapter": "2.Mose 39 ",
+      "read": false
+    },
+    {
+      "date": "5/8/2022",
+      "chapter": "2.Mose 40 ",
+      "read": false
+    },
+    {
+      "date": "5/9/2022",
+      "chapter": "3. Mose 1 ",
+      "read": false
+    },
+    {
+      "date": "5/10/2022",
+      "chapter": "3.Mose 2 ",
+      "read": false
+    },
+    {
+      "date": "5/11/2022",
+      "chapter": "3.Mose 3 ",
+      "read": false
+    },
+    {
+      "date": "5/12/2022",
+      "chapter": "3.Mose 4 ",
+      "read": false
+    },
+    {
+      "date": "5/13/2022",
+      "chapter": "3.Mose 5 ",
+      "read": false
+    },
+    {
+      "date": "5/14/2022",
+      "chapter": "3.Mose 6 ",
+      "read": false
+    },
+    {
+      "date": "5/15/2022",
+      "chapter": "3.Mose 7 ",
+      "read": false
+    },
+    {
+      "date": "5/16/2022",
+      "chapter": "3.Mose 8 ",
+      "read": false
+    },
+    {
+      "date": "5/17/2022",
+      "chapter": "3.Mose 9 ",
+      "read": false
+    },
+    {
+      "date": "5/18/2022",
+      "chapter": "3.Mose 10 ",
+      "read": false
+    },
+    {
+      "date": "5/19/2022",
+      "chapter": "3.Mose 11 ",
+      "read": false
+    },
+    {
+      "date": "5/20/2022",
+      "chapter": "3.Mose 12 ",
+      "read": false
+    },
+    {
+      "date": "5/21/2022",
+      "chapter": "3.Mose 13 ",
+      "read": false
+    },
+    {
+      "date": "5/22/2022",
+      "chapter": "3.Mose 14 ",
+      "read": false
+    },
+    {
+      "date": "5/23/2022",
+      "chapter": "3.Mose 15 ",
+      "read": false
+    },
+    {
+      "date": "5/24/2022",
+      "chapter": "3.Mose 16 ",
+      "read": false
+    },
+    {
+      "date": "5/25/2022",
+      "chapter": "3.Mose 17 ",
+      "read": false
+    },
+    {
+      "date": "5/26/2022",
+      "chapter": "3.Mose 18 ",
+      "read": false
+    },
+    {
+      "date": "5/27/2022",
+      "chapter": "3.Mose 19 ",
+      "read": false
+    },
+    {
+      "date": "5/28/2022",
+      "chapter": "3.Mose 20 ",
+      "read": false
+    },
+    {
+      "date": "5/29/2022",
+      "chapter": "3.Mose 21 ",
+      "read": false
+    },
+    {
+      "date": "5/30/2022",
+      "chapter": "3.Mose 22 ",
+      "read": false
+    },
+    {
+      "date": "5/31/2022",
+      "chapter": "3.Mose 23 ",
+      "read": false
+    },
+    {
+      "date": "6/1/2022",
+      "chapter": "3.Mose 24 ",
+      "read": false
+    },
+    {
+      "date": "6/2/2022",
+      "chapter": "3.Mose 25 ",
+      "read": false
+    },
+    {
+      "date": "6/3/2022",
+      "chapter": "3.Mose 26-27 ",
+      "read": false
+    },
+    {
+      "date": "6/4/2022",
+      "chapter": "4. Mose 1 ",
+      "read": false
+    },
+    {
+      "date": "6/5/2022",
+      "chapter": "4.Mose 2 ",
+      "read": false
+    },
+    {
+      "date": "6/6/2022",
+      "chapter": "4.Mose 3 ",
+      "read": false
+    },
+    {
+      "date": "6/7/2022",
+      "chapter": "4.Mose 4 ",
+      "read": false
+    },
+    {
+      "date": "6/8/2022",
+      "chapter": "4.Mose 5 ",
+      "read": false
+    },
+    {
+      "date": "6/9/2022",
+      "chapter": "4.Mose 6 ",
+      "read": false
+    },
+    {
+      "date": "6/10/2022",
+      "chapter": "4.Mose 7 ",
+      "read": false
+    },
+    {
+      "date": "6/11/2022",
+      "chapter": "4.Mose 8 ",
+      "read": false
+    },
+    {
+      "date": "6/12/2022",
+      "chapter": "4.Mose 9 ",
+      "read": false
+    },
+    {
+      "date": "6/13/2022",
+      "chapter": "4.Mose 10 ",
+      "read": false
+    },
+    {
+      "date": "6/14/2022",
+      "chapter": "4.Mose 11 ",
+      "read": false
+    },
+    {
+      "date": "6/15/2022",
+      "chapter": "4.Mose 12 ",
+      "read": false
+    },
+    {
+      "date": "6/16/2022",
+      "chapter": "4.Mose 13 ",
+      "read": false
+    },
+    {
+      "date": "6/17/2022",
+      "chapter": "4.Mose 14 ",
+      "read": false
+    },
+    {
+      "date": "6/18/2022",
+      "chapter": "4.Mose 15 ",
+      "read": false
+    },
+    {
+      "date": "6/19/2022",
+      "chapter": "4.Mose 16 ",
+      "read": false
+    },
+    {
+      "date": "6/20/2022",
+      "chapter": "4.Mose 17 ",
+      "read": false
+    },
+    {
+      "date": "6/21/2022",
+      "chapter": "4.Mose 18 ",
+      "read": false
+    },
+    {
+      "date": "6/22/2022",
+      "chapter": "4.Mose 19 ",
+      "read": false
+    },
+    {
+      "date": "6/23/2022",
+      "chapter": "4.Mose 20 ",
+      "read": false
+    },
+    {
+      "date": "6/24/2022",
+      "chapter": "4.Mose 21 ",
+      "read": false
+    },
+    {
+      "date": "6/25/2022",
+      "chapter": "4.Mose 22 ",
+      "read": false
+    },
+    {
+      "date": "6/26/2022",
+      "chapter": "4.Mose 23 ",
+      "read": false
+    },
+    {
+      "date": "6/27/2022",
+      "chapter": "4.Mose 24 ",
+      "read": false
+    },
+    {
+      "date": "6/28/2022",
+      "chapter": "4.Mose 25 ",
+      "read": false
+    },
+    {
+      "date": "6/29/2022",
+      "chapter": "4.Mose 26 ",
+      "read": false
+    },
+    {
+      "date": "6/30/2022",
+      "chapter": "4.Mose 27 ",
+      "read": false
+    },
+    {
+      "date": "7/1/2022",
+      "chapter": "4.Mose 28 ",
+      "read": false
+    },
+    {
+      "date": "7/2/2022",
+      "chapter": "4.Mose 29 ",
+      "read": false
+    },
+    {
+      "date": "7/3/2022",
+      "chapter": "4.Mose 30 ",
+      "read": false
+    },
+    {
+      "date": "7/4/2022",
+      "chapter": "4.Mose 31 ",
+      "read": false
+    },
+    {
+      "date": "7/5/2022",
+      "chapter": "4.Mose 32 ",
+      "read": false
+    },
+    {
+      "date": "7/6/2022",
+      "chapter": "4.Mose 33 ",
+      "read": false
+    },
+    {
+      "date": "7/7/2022",
+      "chapter": "4.Mose 34 ",
+      "read": false
+    },
+    {
+      "date": "7/8/2022",
+      "chapter": "4.Mose 35 ",
+      "read": false
+    },
+    {
+      "date": "7/9/2022",
+      "chapter": "4.Mose 36 ",
+      "read": false
+    },
+    {
+      "date": "7/10/2022",
+      "chapter": "5.Mose 1 ",
+      "read": false
+    },
+    {
+      "date": "7/11/2022",
+      "chapter": "5.Mose 2 ",
+      "read": false
+    },
+    {
+      "date": "7/12/2022",
+      "chapter": "5.Mose 3 ",
+      "read": false
+    },
+    {
+      "date": "7/13/2022",
+      "chapter": "5.Mose 4 ",
+      "read": false
+    },
+    {
+      "date": "7/14/2022",
+      "chapter": "5.Mose 5 ",
+      "read": false
+    },
+    {
+      "date": "7/15/2022",
+      "chapter": "5.Mose 6 ",
+      "read": false
+    },
+    {
+      "date": "7/16/2022",
+      "chapter": "5.Mose 7 ",
+      "read": false
+    },
+    {
+      "date": "7/17/2022",
+      "chapter": "5.Mose 8 ",
+      "read": false
+    },
+    {
+      "date": "7/18/2022",
+      "chapter": "5.Mose 9 ",
+      "read": false
+    },
+    {
+      "date": "7/19/2022",
+      "chapter": "5.Mose 10 ",
+      "read": false
+    },
+    {
+      "date": "7/20/2022",
+      "chapter": "5.Mose 11 ",
+      "read": false
+    },
+    {
+      "date": "7/21/2022",
+      "chapter": "5.Mose 12 ",
+      "read": false
+    },
+    {
+      "date": "7/22/2022",
+      "chapter": "5.Mose 13 ",
+      "read": false
+    },
+    {
+      "date": "7/23/2022",
+      "chapter": "5.Mose 14 ",
+      "read": false
+    },
+    {
+      "date": "7/24/2022",
+      "chapter": "5.Mose 15 ",
+      "read": false
+    },
+    {
+      "date": "7/25/2022",
+      "chapter": "5.Mose 16 ",
+      "read": false
+    },
+    {
+      "date": "7/26/2022",
+      "chapter": "5.Mose 17 ",
+      "read": false
+    },
+    {
+      "date": "7/27/2022",
+      "chapter": "5.Mose 18 ",
+      "read": false
+    },
+    {
+      "date": "7/28/2022",
+      "chapter": "5.Mose 19 ",
+      "read": false
+    },
+    {
+      "date": "7/29/2022",
+      "chapter": "5.Mose 20 ",
+      "read": false
+    },
+    {
+      "date": "7/30/2022",
+      "chapter": "5.Mose 21 ",
+      "read": false
+    },
+    {
+      "date": "7/31/2022",
+      "chapter": "5.Mose 22 ",
+      "read": false
+    },
+    {
+      "date": "8/1/2022",
+      "chapter": "5.Mose 23 ",
+      "read": false
+    },
+    {
+      "date": "8/2/2022",
+      "chapter": "5.Mose 24 ",
+      "read": false
+    },
+    {
+      "date": "8/3/2022",
+      "chapter": "5.Mose 25 ",
+      "read": false
+    },
+    {
+      "date": "8/4/2022",
+      "chapter": "5.Mose 26 ",
+      "read": false
+    },
+    {
+      "date": "8/5/2022",
+      "chapter": "5.Mose 27 ",
+      "read": false
+    },
+    {
+      "date": "8/6/2022",
+      "chapter": "5.Mose 28 ",
+      "read": false
+    },
+    {
+      "date": "8/7/2022",
+      "chapter": "5.Mose 29 ",
+      "read": false
+    },
+    {
+      "date": "8/8/2022",
+      "chapter": "5.Mose 30 ",
+      "read": false
+    },
+    {
+      "date": "8/9/2022",
+      "chapter": "5.Mose 31 ",
+      "read": false
+    },
+    {
+      "date": "8/10/2022",
+      "chapter": "5.Mose 32 ",
+      "read": false
+    },
+    {
+      "date": "8/11/2022",
+      "chapter": "5.Mose 33 ",
+      "read": false
+    },
+    {
+      "date": "8/12/2022",
+      "chapter": "5.Mose 34 ",
+      "read": false
+    },
+    {
+      "date": "8/13/2022",
+      "chapter": "Josua 1 ",
+      "read": false
+    },
+    {
+      "date": "8/14/2022",
+      "chapter": "Josua 2 ",
+      "read": false
+    },
+    {
+      "date": "8/15/2022",
+      "chapter": "Josua 3 ",
+      "read": false
+    },
+    {
+      "date": "8/16/2022",
+      "chapter": "Josua 4 ",
+      "read": false
+    },
+    {
+      "date": "8/17/2022",
+      "chapter": "Josua 5 ",
+      "read": false
+    },
+    {
+      "date": "8/18/2022",
+      "chapter": "Josua 6 ",
+      "read": false
+    },
+    {
+      "date": "8/19/2022",
+      "chapter": "Josua 7 ",
+      "read": false
+    },
+    {
+      "date": "8/20/2022",
+      "chapter": "Josua 8 ",
+      "read": false
+    },
+    {
+      "date": "8/21/2022",
+      "chapter": "Josua 9 ",
+      "read": false
+    },
+    {
+      "date": "8/22/2022",
+      "chapter": "Josua 10 ",
+      "read": false
+    },
+    {
+      "date": "8/23/2022",
+      "chapter": "Josua 11 ",
+      "read": false
+    },
+    {
+      "date": "8/24/2022",
+      "chapter": "Josua 12 ",
+      "read": false
+    },
+    {
+      "date": "8/25/2022",
+      "chapter": "Josua 13 ",
+      "read": false
+    },
+    {
+      "date": "8/26/2022",
+      "chapter": "Josua 14 ",
+      "read": false
+    },
+    {
+      "date": "8/27/2022",
+      "chapter": "Josua 15 ",
+      "read": false
+    },
+    {
+      "date": "8/28/2022",
+      "chapter": "Josua 16 ",
+      "read": false
+    },
+    {
+      "date": "8/29/2022",
+      "chapter": "Josua 17 ",
+      "read": false
+    },
+    {
+      "date": "8/30/2022",
+      "chapter": "Josua 18 ",
+      "read": false
+    },
+    {
+      "date": "8/31/2022",
+      "chapter": "Josua 19 ",
+      "read": false
+    },
+    {
+      "date": "9/1/2022",
+      "chapter": "Josua 20 ",
+      "read": false
+    },
+    {
+      "date": "9/2/2022",
+      "chapter": "Josua 21 ",
+      "read": false
+    },
+    {
+      "date": "9/3/2022",
+      "chapter": "Josua 22 ",
+      "read": false
+    },
+    {
+      "date": "9/4/2022",
+      "chapter": "Josua 23 ",
+      "read": false
+    },
+    {
+      "date": "9/5/2022",
+      "chapter": "Josua 24 ",
+      "read": false
+    },
+    {
+      "date": "9/6/2022",
+      "chapter": "Richter 1 ",
+      "read": false
+    },
+    {
+      "date": "9/7/2022",
+      "chapter": "Richter 2 ",
+      "read": false
+    },
+    {
+      "date": "9/8/2022",
+      "chapter": "Richter 3 ",
+      "read": false
+    },
+    {
+      "date": "9/9/2022",
+      "chapter": "Richter 4 ",
+      "read": false
+    },
+    {
+      "date": "9/10/2022",
+      "chapter": "Richter 5 ",
+      "read": false
+    },
+    {
+      "date": "9/11/2022",
+      "chapter": "Richter 6 ",
+      "read": false
+    },
+    {
+      "date": "9/12/2022",
+      "chapter": "Richter 7 ",
+      "read": false
+    },
+    {
+      "date": "9/13/2022",
+      "chapter": "Richter 8 ",
+      "read": false
+    },
+    {
+      "date": "9/14/2022",
+      "chapter": "Richter 9 ",
+      "read": false
+    },
+    {
+      "date": "9/15/2022",
+      "chapter": "Richter 10 ",
+      "read": false
+    },
+    {
+      "date": "9/16/2022",
+      "chapter": "Richter 11 ",
+      "read": false
+    },
+    {
+      "date": "9/17/2022",
+      "chapter": "Richter 12 ",
+      "read": false
+    },
+    {
+      "date": "9/18/2022",
+      "chapter": "Richter 13 ",
+      "read": false
+    },
+    {
+      "date": "9/19/2022",
+      "chapter": "Richter 14 ",
+      "read": false
+    },
+    {
+      "date": "9/20/2022",
+      "chapter": "Richter 15 ",
+      "read": false
+    },
+    {
+      "date": "9/21/2022",
+      "chapter": "Richter 16 ",
+      "read": false
+    },
+    {
+      "date": "9/22/2022",
+      "chapter": "Richter 17 ",
+      "read": false
+    },
+    {
+      "date": "9/23/2022",
+      "chapter": "Richter 18 ",
+      "read": false
+    },
+    {
+      "date": "9/24/2022",
+      "chapter": "Richter 19 ",
+      "read": false
+    },
+    {
+      "date": "9/25/2022",
+      "chapter": "Richter 20-21 ",
+      "read": false
+    },
+    {
+      "date": "9/26/2022",
+      "chapter": "Rut 1 ",
+      "read": false
+    },
+    {
+      "date": "9/27/2022",
+      "chapter": "Rut 2 ",
+      "read": false
+    },
+    {
+      "date": "9/28/2022",
+      "chapter": "Rut 3 ",
+      "read": false
+    },
+    {
+      "date": "9/29/2022",
+      "chapter": "Rut 4 ",
+      "read": false
+    },
+    {
+      "date": "9/30/2022",
+      "chapter": "1.Samuel 1 ",
+      "read": false
+    },
+    {
+      "date": "10/1/2022",
+      "chapter": "1.Samuel 2 ",
+      "read": false
+    },
+    {
+      "date": "10/2/2022",
+      "chapter": "1.Samuel 3 ",
+      "read": false
+    },
+    {
+      "date": "10/3/2022",
+      "chapter": "1.Samuel 4 ",
+      "read": false
+    },
+    {
+      "date": "10/4/2022",
+      "chapter": "1.Samuel 5 ",
+      "read": false
+    },
+    {
+      "date": "10/5/2022",
+      "chapter": "1.Samuel 6 ",
+      "read": false
+    },
+    {
+      "date": "10/6/2022",
+      "chapter": "1.Samuel 7 ",
+      "read": false
+    },
+    {
+      "date": "10/7/2022",
+      "chapter": "1.Samuel 8 ",
+      "read": false
+    },
+    {
+      "date": "10/8/2022",
+      "chapter": "1.Samuel 9 ",
+      "read": false
+    },
+    {
+      "date": "10/9/2022",
+      "chapter": "1.Samuel 10 ",
+      "read": false
+    },
+    {
+      "date": "10/10/2022",
+      "chapter": "1.Samuel 11 ",
+      "read": false
+    },
+    {
+      "date": "10/11/2022",
+      "chapter": "1.Samuel 12 ",
+      "read": false
+    },
+    {
+      "date": "10/12/2022",
+      "chapter": "1.Samuel 13 ",
+      "read": false
+    },
+    {
+      "date": "10/13/2022",
+      "chapter": "1.Samuel 14 ",
+      "read": false
+    },
+    {
+      "date": "10/14/2022",
+      "chapter": "1.Samuel 15 ",
+      "read": false
+    },
+    {
+      "date": "10/15/2022",
+      "chapter": "1.Samuel 16 ",
+      "read": false
+    },
+    {
+      "date": "10/16/2022",
+      "chapter": "1.Samuel 17 ",
+      "read": false
+    },
+    {
+      "date": "10/17/2022",
+      "chapter": "1.Samuel 18 ",
+      "read": false
+    },
+    {
+      "date": "10/18/2022",
+      "chapter": "1.Samuel 19 ",
+      "read": false
+    },
+    {
+      "date": "10/19/2022",
+      "chapter": "1.Samuel 20 ",
+      "read": false
+    },
+    {
+      "date": "10/20/2022",
+      "chapter": "1.Samuel 21 ",
+      "read": false
+    },
+    {
+      "date": "10/21/2022",
+      "chapter": "1.Samuel 22 ",
+      "read": false
+    },
+    {
+      "date": "10/22/2022",
+      "chapter": "1.Samuel 23 ",
+      "read": false
+    },
+    {
+      "date": "10/23/2022",
+      "chapter": "1.Samuel 24 ",
+      "read": false
+    },
+    {
+      "date": "10/24/2022",
+      "chapter": "1.Samuel 25 ",
+      "read": false
+    },
+    {
+      "date": "10/25/2022",
+      "chapter": "1.Samuel 26 ",
+      "read": false
+    },
+    {
+      "date": "10/26/2022",
+      "chapter": "1.Samuel 27 ",
+      "read": false
+    },
+    {
+      "date": "10/27/2022",
+      "chapter": "1.Samuel 28 ",
+      "read": false
+    },
+    {
+      "date": "10/28/2022",
+      "chapter": "1.Samuel 29 ",
+      "read": false
+    },
+    {
+      "date": "10/29/2022",
+      "chapter": "1.Samuel 30-31 ",
+      "read": false
+    },
+    {
+      "date": "10/30/2022",
+      "chapter": "2.Samuel 1 ",
+      "read": false
+    },
+    {
+      "date": "10/31/2022",
+      "chapter": "2.Samuel 2 ",
+      "read": false
+    },
+    {
+      "date": "11/1/2022",
+      "chapter": "2.Samuel 3 ",
+      "read": false
+    },
+    {
+      "date": "11/2/2022",
+      "chapter": "2.Samuel 4 ",
+      "read": false
+    },
+    {
+      "date": "11/3/2022",
+      "chapter": "1.Chronik 1 ",
+      "read": false
+    },
+    {
+      "date": "11/4/2022",
+      "chapter": "1.Chronik 2 ",
+      "read": false
+    },
+    {
+      "date": "11/5/2022",
+      "chapter": "1.Chronik 3 ",
+      "read": false
+    },
+    {
+      "date": "11/6/2022",
+      "chapter": "1.Chronik 4 ",
+      "read": false
+    },
+    {
+      "date": "11/7/2022",
+      "chapter": "1.Chronik 5 ",
+      "read": false
+    },
+    {
+      "date": "11/8/2022",
+      "chapter": "1.Chronik 6 ",
+      "read": false
+    },
+    {
+      "date": "11/9/2022",
+      "chapter": "1.Chronik 7 ",
+      "read": false
+    },
+    {
+      "date": "11/10/2022",
+      "chapter": "1.Chronik 8 ",
+      "read": false
+    },
+    {
+      "date": "11/11/2022",
+      "chapter": "1.Chronik 9 ",
+      "read": false
+    },
+    {
+      "date": "11/12/2022",
+      "chapter": "1.Chronik 10 ",
+      "read": false
+    },
+    {
+      "date": "11/13/2022",
+      "chapter": "2.Samuel 5,1-10 ",
+      "read": false
+    },
+    {
+      "date": "11/14/2022",
+      "chapter": "1.Chronik 11 ",
+      "read": false
+    },
+    {
+      "date": "11/15/2022",
+      "chapter": "1.Chronik 12 ",
+      "read": false
+    },
+    {
+      "date": "11/16/2022",
+      "chapter": "1.Chronik 13 ",
+      "read": false
+    },
+    {
+      "date": "11/17/2022",
+      "chapter": "2.Samuel 5,11-25 ",
+      "read": false
+    },
+    {
+      "date": "11/18/2022",
+      "chapter": "1.Chronik 14 ",
+      "read": false
+    },
+    {
+      "date": "11/19/2022",
+      "chapter": "2.Samuel 6 ",
+      "read": false
+    },
+    {
+      "date": "11/20/2022",
+      "chapter": "1.Chronik 15 ",
+      "read": false
+    },
+    {
+      "date": "11/21/2022",
+      "chapter": "1.Chronik 16 ",
+      "read": false
+    },
+    {
+      "date": "11/22/2022",
+      "chapter": "2.Samuel 7 ",
+      "read": false
+    },
+    {
+      "date": "11/23/2022",
+      "chapter": "1.Chronik 17 ",
+      "read": false
+    },
+    {
+      "date": "11/24/2022",
+      "chapter": "2.Samuel 8 ",
+      "read": false
+    },
+    {
+      "date": "11/25/2022",
+      "chapter": "1.Chronik 18 ",
+      "read": false
+    },
+    {
+      "date": "11/26/2022",
+      "chapter": "2.Samuel 9 ",
+      "read": false
+    },
+    {
+      "date": "11/27/2022",
+      "chapter": "2.Samuel 10 ",
+      "read": false
+    },
+    {
+      "date": "11/28/2022",
+      "chapter": "1.Chronik 19 ",
+      "read": false
+    },
+    {
+      "date": "11/29/2022",
+      "chapter": "2.Samuel 11 ",
+      "read": false
+    },
+    {
+      "date": "11/30/2022",
+      "chapter": "2.Samuel 12 ",
+      "read": false
+    },
+    {
+      "date": "12/1/2022",
+      "chapter": "1.Chronik 20 ",
+      "read": false
+    },
+    {
+      "date": "12/2/2022",
+      "chapter": "2.Samuel 13 ",
+      "read": false
+    },
+    {
+      "date": "12/3/2022",
+      "chapter": "2.Samuel 14 ",
+      "read": false
+    },
+    {
+      "date": "12/4/2022",
+      "chapter": "2.Samuel 15 ",
+      "read": false
+    },
+    {
+      "date": "12/5/2022",
+      "chapter": "2.Samuel 16 ",
+      "read": false
+    },
+    {
+      "date": "12/6/2022",
+      "chapter": "2.Samuel 17 ",
+      "read": false
+    },
+    {
+      "date": "12/7/2022",
+      "chapter": "2.Samuel 18 ",
+      "read": false
+    },
+    {
+      "date": "12/8/2022",
+      "chapter": "2.Samuel 19 ",
+      "read": false
+    },
+    {
+      "date": "12/9/2022",
+      "chapter": "2.Samuel 20 ",
+      "read": false
+    },
+    {
+      "date": "12/10/2022",
+      "chapter": "2.Samuel 21 ",
+      "read": false
+    },
+    {
+      "date": "12/11/2022",
+      "chapter": "2.Samuel 22 ",
+      "read": false
+    },
+    {
+      "date": "12/12/2022",
+      "chapter": "2.Samuel 23 ",
+      "read": false
+    },
+    {
+      "date": "12/13/2022",
+      "chapter": "2.Samuel 24 ",
+      "read": false
+    },
+    {
+      "date": "12/14/2022",
+      "chapter": "1.Chronik 21 ",
+      "read": false
+    },
+    {
+      "date": "12/15/2022",
+      "chapter": "1.Chronik 22 ",
+      "read": false
+    },
+    {
+      "date": "12/16/2022",
+      "chapter": "1.Chronik 23 ",
+      "read": false
+    },
+    {
+      "date": "12/17/2022",
+      "chapter": "1.Chronik 24 ",
+      "read": false
+    },
+    {
+      "date": "12/18/2022",
+      "chapter": "1.Chronik 25 ",
+      "read": false
+    },
+    {
+      "date": "12/19/2022",
+      "chapter": "1.Chronik 26 ",
+      "read": false
+    },
+    {
+      "date": "12/20/2022",
+      "chapter": "1.Chronik 27 ",
+      "read": false
+    },
+    {
+      "date": "12/21/2022",
+      "chapter": "1.Chronik 28 ",
+      "read": false
+    },
+    {
+      "date": "12/22/2022",
+      "chapter": "1.Chronik 29 ",
+      "read": false
+    },
+    {
+      "date": "12/23/2022",
+      "chapter": "1.Könige 1 ",
+      "read": false
+    },
+    {
+      "date": "12/24/2022",
+      "chapter": "1.Könige 2 ",
+      "read": false
+    },
+    {
+      "date": "12/25/2022",
+      "chapter": "1.Könige 3 ",
+      "read": false
+    },
+    {
+      "date": "12/26/2022",
+      "chapter": "2.Chronik 1 ",
+      "read": false
+    },
+    {
+      "date": "12/27/2022",
+      "chapter": "1.Könige 4 ",
+      "read": false
+    },
+    {
+      "date": "12/28/2022",
+      "chapter": "Hohelied 1 ",
+      "read": false
+    },
+    {
+      "date": "12/29/2022",
+      "chapter": "Hohelied 2 ",
+      "read": false
+    },
+    {
+      "date": "12/30/2022",
+      "chapter": "Hohelied 3 ",
+      "read": false
+    },
+    {
+      "date": "12/31/2022",
+      "chapter": "Hohelied 4 ",
+      "read": false
+    },
+    {
+      "date": "1/1/2022",
+      "chapter": "Jakobus 1 ",
+      "read": false
+    },
+    {
+      "date": "1/2/2022",
+      "chapter": "Jakobus 2,1-13 ",
+      "read": false
+    },
+    {
+      "date": "1/3/2022",
+      "chapter": "Jakobus 2,14-26 ",
+      "read": false
+    },
+    {
+      "date": "1/4/2022",
+      "chapter": "Jakobus 3 ",
+      "read": false
+    },
+    {
+      "date": "1/5/2022",
+      "chapter": "Jakobus 4 ",
+      "read": false
+    },
+    {
+      "date": "1/6/2022",
+      "chapter": "Jakobus 5 ",
+      "read": false
+    },
+    {
+      "date": "1/7/2022",
+      "chapter": "Galater 1 ",
+      "read": false
+    },
+    {
+      "date": "1/8/2022",
+      "chapter": "Galater 2 ",
+      "read": false
+    },
+    {
+      "date": "1/9/2022",
+      "chapter": "Galater 3,1-14 ",
+      "read": false
+    },
+    {
+      "date": "1/10/2022",
+      "chapter": "Galater 3,15-29 ",
+      "read": false
+    },
+    {
+      "date": "1/11/2022",
+      "chapter": "Galater 4 ",
+      "read": false
+    },
+    {
+      "date": "1/12/2022",
+      "chapter": "Galater 5 ",
+      "read": false
+    },
+    {
+      "date": "1/13/2022",
+      "chapter": "Galater 6 ",
+      "read": false
+    },
+    {
+      "date": "1/14/2022",
+      "chapter": "Matth. 1 ",
+      "read": false
+    },
+    {
+      "date": "1/15/2022",
+      "chapter": "Matth. 2 ",
+      "read": false
+    },
+    {
+      "date": "1/16/2022",
+      "chapter": "Matth. 3 ",
+      "read": false
+    },
+    {
+      "date": "1/17/2022",
+      "chapter": "Matth. 4 ",
+      "read": false
+    },
+    {
+      "date": "1/18/2022",
+      "chapter": "Matth. 5,1-26 ",
+      "read": false
+    },
+    {
+      "date": "1/19/2022",
+      "chapter": "Matth. 5,27-48 ",
+      "read": false
+    },
+    {
+      "date": "1/20/2022",
+      "chapter": "Matth. 6,1-18 ",
+      "read": false
+    },
+    {
+      "date": "1/21/2022",
+      "chapter": "Matth. 6,19-34 ",
+      "read": false
+    },
+    {
+      "date": "1/22/2022",
+      "chapter": "Matth. 7,1-11 ",
+      "read": false
+    },
+    {
+      "date": "1/23/2022",
+      "chapter": "Matth. 7,12-29 ",
+      "read": false
+    },
+    {
+      "date": "1/24/2022",
+      "chapter": "Matth. 8,1-17 ",
+      "read": false
+    },
+    {
+      "date": "1/25/2022",
+      "chapter": "Matth. 8,18-34 ",
+      "read": false
+    },
+    {
+      "date": "1/26/2022",
+      "chapter": "Matth. 9,1-17 ",
+      "read": false
+    },
+    {
+      "date": "1/27/2022",
+      "chapter": "Matth. 9,18-34 ",
+      "read": false
+    },
+    {
+      "date": "1/28/2022",
+      "chapter": "Matth. 9,35-10,15 ",
+      "read": false
+    },
+    {
+      "date": "1/29/2022",
+      "chapter": "Matth. 10,16-33 ",
+      "read": false
+    },
+    {
+      "date": "1/30/2022",
+      "chapter": "Matth. 10,34-11,19 ",
+      "read": false
+    },
+    {
+      "date": "1/31/2022",
+      "chapter": "Matth. 11,20-30 ",
+      "read": false
+    },
+    {
+      "date": "2/1/2022",
+      "chapter": "Matth. 12,1-21 ",
+      "read": false
+    },
+    {
+      "date": "2/2/2022",
+      "chapter": "Matth. 12,22-50 ",
+      "read": false
+    },
+    {
+      "date": "2/3/2022",
+      "chapter": "Matth. 13,1-23 ",
+      "read": false
+    },
+    {
+      "date": "2/4/2022",
+      "chapter": "Matth. 13,24-43 ",
+      "read": false
+    },
+    {
+      "date": "2/5/2022",
+      "chapter": "Matth. 13,44-58 ",
+      "read": false
+    },
+    {
+      "date": "2/6/2022",
+      "chapter": "Matth. 14,1-21 ",
+      "read": false
+    },
+    {
+      "date": "2/7/2022",
+      "chapter": "Matth. 14,22-36 ",
+      "read": false
+    },
+    {
+      "date": "2/8/2022",
+      "chapter": "Matth. 15,1-20 ",
+      "read": false
+    },
+    {
+      "date": "2/9/2022",
+      "chapter": "Matth. 15,21-39 ",
+      "read": false
+    },
+    {
+      "date": "2/10/2022",
+      "chapter": "Matth. 16 ",
+      "read": false
+    },
+    {
+      "date": "2/11/2022",
+      "chapter": "Matth. 17 ",
+      "read": false
+    },
+    {
+      "date": "2/12/2022",
+      "chapter": "Matth. 18,1-14 ",
+      "read": false
+    },
+    {
+      "date": "2/13/2022",
+      "chapter": "Matth. 18,15-35 ",
+      "read": false
+    },
+    {
+      "date": "2/14/2022",
+      "chapter": "Matth. 19 ",
+      "read": false
+    },
+    {
+      "date": "2/15/2022",
+      "chapter": "Matth. 20 ",
+      "read": false
+    },
+    {
+      "date": "2/16/2022",
+      "chapter": "Matth. 21,1-22 ",
+      "read": false
+    },
+    {
+      "date": "2/17/2022",
+      "chapter": "Matth. 21,23-46 ",
+      "read": false
+    },
+    {
+      "date": "2/18/2022",
+      "chapter": "Matth. 22,1-22 ",
+      "read": false
+    },
+    {
+      "date": "2/19/2022",
+      "chapter": "Matth. 22,23-46 ",
+      "read": false
+    },
+    {
+      "date": "2/20/2022",
+      "chapter": "Matth. 23 ",
+      "read": false
+    },
+    {
+      "date": "2/21/2022",
+      "chapter": "Matth. 24,1-31 ",
+      "read": false
+    },
+    {
+      "date": "2/22/2022",
+      "chapter": "Matth. 24,32-51 ",
+      "read": false
+    },
+    {
+      "date": "2/23/2022",
+      "chapter": "Matth. 25,1-30 ",
+      "read": false
+    },
+    {
+      "date": "2/24/2022",
+      "chapter": "Matth. 25,31-46 ",
+      "read": false
+    },
+    {
+      "date": "2/25/2022",
+      "chapter": "Matth. 26,1-35 ",
+      "read": false
+    },
+    {
+      "date": "2/26/2022",
+      "chapter": "Matth. 26,36-75 ",
+      "read": false
+    },
+    {
+      "date": "2/27/2022",
+      "chapter": "Matth. 27,1-26 ",
+      "read": false
+    },
+    {
+      "date": "2/28/2022",
+      "chapter": "Matth. 27,27-66 ",
+      "read": false
+    },
+    {
+      "date": "3/1/2022",
+      "chapter": "Matth. 28 ",
+      "read": false
+    },
+    {
+      "date": "3/2/2022",
+      "chapter": "Markus 1,1-20 ",
+      "read": false
+    },
+    {
+      "date": "3/3/2022",
+      "chapter": "Markus 1,21-45 ",
+      "read": false
+    },
+    {
+      "date": "3/4/2022",
+      "chapter": "Markus 2 ",
+      "read": false
+    },
+    {
+      "date": "3/5/2022",
+      "chapter": "Markus 3 ",
+      "read": false
+    },
+    {
+      "date": "3/6/2022",
+      "chapter": "Markus 4,1-20 ",
+      "read": false
+    },
+    {
+      "date": "3/7/2022",
+      "chapter": "Markus 4,21-41 ",
+      "read": false
+    },
+    {
+      "date": "3/8/2022",
+      "chapter": "Markus 5,1-20 ",
+      "read": false
+    },
+    {
+      "date": "3/9/2022",
+      "chapter": "Markus 5,21-43 ",
+      "read": false
+    },
+    {
+      "date": "3/10/2022",
+      "chapter": "Markus 6,1-31 ",
+      "read": false
+    },
+    {
+      "date": "3/11/2022",
+      "chapter": "Markus 6,32-56 ",
+      "read": false
+    },
+    {
+      "date": "3/12/2022",
+      "chapter": "Markus 7,1-23 ",
+      "read": false
+    },
+    {
+      "date": "3/13/2022",
+      "chapter": "Markus 7,24-37 ",
+      "read": false
+    },
+    {
+      "date": "3/14/2022",
+      "chapter": "Markus 8,1-21 ",
+      "read": false
+    },
+    {
+      "date": "3/15/2022",
+      "chapter": "Markus 8,22-38 ",
+      "read": false
+    },
+    {
+      "date": "3/16/2022",
+      "chapter": "Markus 9,1-32 ",
+      "read": false
+    },
+    {
+      "date": "3/17/2022",
+      "chapter": "Markus 9,33-50 ",
+      "read": false
+    },
+    {
+      "date": "3/18/2022",
+      "chapter": "Markus 10,1-31 ",
+      "read": false
+    },
+    {
+      "date": "3/19/2022",
+      "chapter": "Markus 10,32-52 ",
+      "read": false
+    },
+    {
+      "date": "3/20/2022",
+      "chapter": "Markus 11 ",
+      "read": false
+    },
+    {
+      "date": "3/21/2022",
+      "chapter": "Markus 12,1-27 ",
+      "read": false
+    },
+    {
+      "date": "3/22/2022",
+      "chapter": "Markus 12,28-44 ",
+      "read": false
+    },
+    {
+      "date": "3/23/2022",
+      "chapter": "Markus 13 ",
+      "read": false
+    },
+    {
+      "date": "3/24/2022",
+      "chapter": "Markus 14,1-31 ",
+      "read": false
+    },
+    {
+      "date": "3/25/2022",
+      "chapter": "Markus 14,32-72 ",
+      "read": false
+    },
+    {
+      "date": "3/26/2022",
+      "chapter": "Markus 15 ",
+      "read": false
+    },
+    {
+      "date": "3/27/2022",
+      "chapter": "Markus 16 ",
+      "read": false
+    },
+    {
+      "date": "3/28/2022",
+      "chapter": "1.Thess. 1 ",
+      "read": false
+    },
+    {
+      "date": "3/29/2022",
+      "chapter": "1.Thess. 2 ",
+      "read": false
+    },
+    {
+      "date": "3/30/2022",
+      "chapter": "1.Thess. 3 ",
+      "read": false
+    },
+    {
+      "date": "3/31/2022",
+      "chapter": "1.Thess. 4 ",
+      "read": false
+    },
+    {
+      "date": "4/1/2022",
+      "chapter": "1.Thess. 5 ",
+      "read": false
+    },
+    {
+      "date": "4/2/2022",
+      "chapter": "2.Thess. 1 ",
+      "read": false
+    },
+    {
+      "date": "4/3/2022",
+      "chapter": "2.Thess. 2 ",
+      "read": false
+    },
+    {
+      "date": "4/4/2022",
+      "chapter": "2.Thess. 3 ",
+      "read": false
+    },
+    {
+      "date": "4/5/2022",
+      "chapter": "1.Kor. 1,1-17 ",
+      "read": false
+    },
+    {
+      "date": "4/6/2022",
+      "chapter": "1.Kor. 1,18-31 ",
+      "read": false
+    },
+    {
+      "date": "4/7/2022",
+      "chapter": "1.Kor. 2 ",
+      "read": false
+    },
+    {
+      "date": "4/8/2022",
+      "chapter": "1.Kor. 3 ",
+      "read": false
+    },
+    {
+      "date": "4/9/2022",
+      "chapter": "1.Kor. 4 ",
+      "read": false
+    },
+    {
+      "date": "4/10/2022",
+      "chapter": "1.Kor. 5 ",
+      "read": false
+    },
+    {
+      "date": "4/11/2022",
+      "chapter": "1.Kor. 6 ",
+      "read": false
+    },
+    {
+      "date": "4/12/2022",
+      "chapter": "1.Kor. 7,1-16 ",
+      "read": false
+    },
+    {
+      "date": "4/13/2022",
+      "chapter": "1.Kor. 7,17-40 ",
+      "read": false
+    },
+    {
+      "date": "4/14/2022",
+      "chapter": "1.Kor. 8 ",
+      "read": false
+    },
+    {
+      "date": "4/15/2022",
+      "chapter": "1.Kor. 9 ",
+      "read": false
+    },
+    {
+      "date": "4/16/2022",
+      "chapter": "1.Kor. 10,1-22 ",
+      "read": false
+    },
+    {
+      "date": "4/17/2022",
+      "chapter": "1.Kor. 10,23-11,16 ",
+      "read": false
+    },
+    {
+      "date": "4/18/2022",
+      "chapter": "1.Kor. 11,17-34 ",
+      "read": false
+    },
+    {
+      "date": "4/19/2022",
+      "chapter": "1.Kor. 12 ",
+      "read": false
+    },
+    {
+      "date": "4/20/2022",
+      "chapter": "1.Kor. 13 ",
+      "read": false
+    },
+    {
+      "date": "4/21/2022",
+      "chapter": "1.Kor. 14,1-26 ",
+      "read": false
+    },
+    {
+      "date": "4/22/2022",
+      "chapter": "1.Kor. 14,27-40 ",
+      "read": false
+    },
+    {
+      "date": "4/23/2022",
+      "chapter": "1.Kor. 15,1-34 ",
+      "read": false
+    },
+    {
+      "date": "4/24/2022",
+      "chapter": "1.Kor. 15,35-58 ",
+      "read": false
+    },
+    {
+      "date": "4/25/2022",
+      "chapter": "1.Kor. 16 ",
+      "read": false
+    },
+    {
+      "date": "4/26/2022",
+      "chapter": "2.Kor. 1 ",
+      "read": false
+    },
+    {
+      "date": "4/27/2022",
+      "chapter": "2.Kor. 2 ",
+      "read": false
+    },
+    {
+      "date": "4/28/2022",
+      "chapter": "2.Kor. 3 ",
+      "read": false
+    },
+    {
+      "date": "4/29/2022",
+      "chapter": "2.Kor. 4 ",
+      "read": false
+    },
+    {
+      "date": "4/30/2022",
+      "chapter": "2.Kor. 5 ",
+      "read": false
+    },
+    {
+      "date": "5/1/2022",
+      "chapter": "2.Kor. 6,1-7,4 ",
+      "read": false
+    },
+    {
+      "date": "5/2/2022",
+      "chapter": "2.Kor. 7,5-16 ",
+      "read": false
+    },
+    {
+      "date": "5/3/2022",
+      "chapter": "2.Kor. 8 ",
+      "read": false
+    },
+    {
+      "date": "5/4/2022",
+      "chapter": "2.Kor. 9 ",
+      "read": false
+    },
+    {
+      "date": "5/5/2022",
+      "chapter": "2. Kor. 10 ",
+      "read": false
+    },
+    {
+      "date": "5/6/2022",
+      "chapter": "2.Kor. 11,1-15 ",
+      "read": false
+    },
+    {
+      "date": "5/7/2022",
+      "chapter": "2.Kor. 11,16-33 ",
+      "read": false
+    },
+    {
+      "date": "5/8/2022",
+      "chapter": "2.Kor. 12 ",
+      "read": false
+    },
+    {
+      "date": "5/9/2022",
+      "chapter": "2.Kor. 13 ",
+      "read": false
+    },
+    {
+      "date": "5/10/2022",
+      "chapter": "Römer 1,1-17 ",
+      "read": false
+    },
+    {
+      "date": "5/11/2022",
+      "chapter": "Römer 1,18-32 ",
+      "read": false
+    },
+    {
+      "date": "5/12/2022",
+      "chapter": "Römer 2,1-16 ",
+      "read": false
+    },
+    {
+      "date": "5/13/2022",
+      "chapter": "Römer 2,17-29 ",
+      "read": false
+    },
+    {
+      "date": "5/14/2022",
+      "chapter": "Römer 3,1-20 ",
+      "read": false
+    },
+    {
+      "date": "5/15/2022",
+      "chapter": "Römer 3,21-31 ",
+      "read": false
+    },
+    {
+      "date": "5/16/2022",
+      "chapter": "Römer 4,1-12 ",
+      "read": false
+    },
+    {
+      "date": "5/17/2022",
+      "chapter": "Römer 4,13-25 ",
+      "read": false
+    },
+    {
+      "date": "5/18/2022",
+      "chapter": "Römer 5,1-5 ",
+      "read": false
+    },
+    {
+      "date": "5/19/2022",
+      "chapter": "Römer 5,6-11 ",
+      "read": false
+    },
+    {
+      "date": "5/20/2022",
+      "chapter": "Römer 5,12-21 ",
+      "read": false
+    },
+    {
+      "date": "5/21/2022",
+      "chapter": "Römer 6,1-11 ",
+      "read": false
+    },
+    {
+      "date": "5/22/2022",
+      "chapter": "Römer 6,12-23 ",
+      "read": false
+    },
+    {
+      "date": "5/23/2022",
+      "chapter": "Römer 7,1-12 ",
+      "read": false
+    },
+    {
+      "date": "5/24/2022",
+      "chapter": "Römer 7,13-25 ",
+      "read": false
+    },
+    {
+      "date": "5/25/2022",
+      "chapter": "Römer 8,1-17 ",
+      "read": false
+    },
+    {
+      "date": "5/26/2022",
+      "chapter": "Römer 8,18-39 ",
+      "read": false
+    },
+    {
+      "date": "5/27/2022",
+      "chapter": "Römer 9,1-18 ",
+      "read": false
+    },
+    {
+      "date": "5/28/2022",
+      "chapter": "Römer 9,19-10,3 ",
+      "read": false
+    },
+    {
+      "date": "5/29/2022",
+      "chapter": "Römer 10,4-21 ",
+      "read": false
+    },
+    {
+      "date": "5/30/2022",
+      "chapter": "Römer 11,1-21 ",
+      "read": false
+    },
+    {
+      "date": "5/31/2022",
+      "chapter": "Römer 11,22-36 ",
+      "read": false
+    },
+    {
+      "date": "6/1/2022",
+      "chapter": "Römer 12,1-8 ",
+      "read": false
+    },
+    {
+      "date": "6/2/2022",
+      "chapter": "Römer 12,9-21 ",
+      "read": false
+    },
+    {
+      "date": "6/3/2022",
+      "chapter": "Römer 13,1-7 ",
+      "read": false
+    },
+    {
+      "date": "6/4/2022",
+      "chapter": "Römer 13,8-14 ",
+      "read": false
+    },
+    {
+      "date": "6/5/2022",
+      "chapter": "Römer 14,1-18 ",
+      "read": false
+    },
+    {
+      "date": "6/6/2022",
+      "chapter": "Römer 14,19-15,13 ",
+      "read": false
+    },
+    {
+      "date": "6/7/2022",
+      "chapter": "Römer 15,14-33 ",
+      "read": false
+    },
+    {
+      "date": "6/8/2022",
+      "chapter": "Römer 16 ",
+      "read": false
+    },
+    {
+      "date": "6/9/2022",
+      "chapter": "Lukas 1,1-25 ",
+      "read": false
+    },
+    {
+      "date": "6/10/2022",
+      "chapter": "Lukas 1,26-56 ",
+      "read": false
+    },
+    {
+      "date": "6/11/2022",
+      "chapter": "Lukas 1,57-80 ",
+      "read": false
+    },
+    {
+      "date": "6/12/2022",
+      "chapter": "Lukas 2,1-40 ",
+      "read": false
+    },
+    {
+      "date": "6/13/2022",
+      "chapter": "Lukas 2,41-52 ",
+      "read": false
+    },
+    {
+      "date": "6/14/2022",
+      "chapter": "Lukas 3,1-20 ",
+      "read": false
+    },
+    {
+      "date": "6/15/2022",
+      "chapter": "Lukas 3,21-4,13 ",
+      "read": false
+    },
+    {
+      "date": "6/16/2022",
+      "chapter": "Lukas 4,14-30 ",
+      "read": false
+    },
+    {
+      "date": "6/17/2022",
+      "chapter": "Lukas 4,31-44 ",
+      "read": false
+    },
+    {
+      "date": "6/18/2022",
+      "chapter": "Lukas 5,1-16 ",
+      "read": false
+    },
+    {
+      "date": "6/19/2022",
+      "chapter": "Lukas 5,17-39 ",
+      "read": false
+    },
+    {
+      "date": "6/20/2022",
+      "chapter": "Lukas 6,1-19 ",
+      "read": false
+    },
+    {
+      "date": "6/21/2022",
+      "chapter": "Lukas 6,20-49 ",
+      "read": false
+    },
+    {
+      "date": "6/22/2022",
+      "chapter": "Lukas 7,1-17 ",
+      "read": false
+    },
+    {
+      "date": "6/23/2022",
+      "chapter": "Lukas 7,18-35 ",
+      "read": false
+    },
+    {
+      "date": "6/24/2022",
+      "chapter": "Lukas 7,36-50 ",
+      "read": false
+    },
+    {
+      "date": "6/25/2022",
+      "chapter": "Lukas 8,1-25 ",
+      "read": false
+    },
+    {
+      "date": "6/26/2022",
+      "chapter": "Lukas 8,26-56 ",
+      "read": false
+    },
+    {
+      "date": "6/27/2022",
+      "chapter": "Lukas 9,1-22 ",
+      "read": false
+    },
+    {
+      "date": "6/28/2022",
+      "chapter": "Lukas 9,23-45 ",
+      "read": false
+    },
+    {
+      "date": "6/29/2022",
+      "chapter": "Lukas 9,46-62 ",
+      "read": false
+    },
+    {
+      "date": "6/30/2022",
+      "chapter": "Lukas 10,1-24 ",
+      "read": false
+    },
+    {
+      "date": "7/1/2022",
+      "chapter": "Lukas 11,1-28 ",
+      "read": false
+    },
+    {
+      "date": "7/2/2022",
+      "chapter": "Lukas 11,29-54 ",
+      "read": false
+    },
+    {
+      "date": "7/3/2022",
+      "chapter": "Lukas 12,1-34 ",
+      "read": false
+    },
+    {
+      "date": "7/4/2022",
+      "chapter": "Lukas 12,35-59 ",
+      "read": false
+    },
+    {
+      "date": "7/5/2022",
+      "chapter": "Lukas 13,1-17 ",
+      "read": false
+    },
+    {
+      "date": "7/6/2022",
+      "chapter": "Lukas 13,18-35 ",
+      "read": false
+    },
+    {
+      "date": "7/7/2022",
+      "chapter": "Lukas 14 ",
+      "read": false
+    },
+    {
+      "date": "7/8/2022",
+      "chapter": "Lukas 15 ",
+      "read": false
+    },
+    {
+      "date": "7/9/2022",
+      "chapter": "Lukas 16 ",
+      "read": false
+    },
+    {
+      "date": "7/10/2022",
+      "chapter": "Lukas 17 ",
+      "read": false
+    },
+    {
+      "date": "7/11/2022",
+      "chapter": "Lukas 18,1-17 ",
+      "read": false
+    },
+    {
+      "date": "7/12/2022",
+      "chapter": "Lukas 18,18-43 ",
+      "read": false
+    },
+    {
+      "date": "7/13/2022",
+      "chapter": "Lukas 19,1-27 ",
+      "read": false
+    },
+    {
+      "date": "7/14/2022",
+      "chapter": "Lukas 19,28-48 ",
+      "read": false
+    },
+    {
+      "date": "7/15/2022",
+      "chapter": "Lukas 20,1-19 ",
+      "read": false
+    },
+    {
+      "date": "7/16/2022",
+      "chapter": "Lukas 20,20-21,4 ",
+      "read": false
+    },
+    {
+      "date": "7/17/2022",
+      "chapter": "Lukas 21,5-38 ",
+      "read": false
+    },
+    {
+      "date": "7/18/2022",
+      "chapter": "Lukas 22,1-46 ",
+      "read": false
+    },
+    {
+      "date": "7/19/2022",
+      "chapter": "Lukas 22,47-71 ",
+      "read": false
+    },
+    {
+      "date": "7/20/2022",
+      "chapter": "Lukas 23,1-25 ",
+      "read": false
+    },
+    {
+      "date": "7/21/2022",
+      "chapter": "Lukas 23,26-56 ",
+      "read": false
+    },
+    {
+      "date": "7/22/2022",
+      "chapter": "Lukas 24,1-35 ",
+      "read": false
+    },
+    {
+      "date": "7/23/2022",
+      "chapter": "Lukas 24,36-53 ",
+      "read": false
+    },
+    {
+      "date": "7/24/2022",
+      "chapter": "Epheser 1 ",
+      "read": false
+    },
+    {
+      "date": "7/25/2022",
+      "chapter": "Epheser 2 ",
+      "read": false
+    },
+    {
+      "date": "7/26/2022",
+      "chapter": "Epheser 3 ",
+      "read": false
+    },
+    {
+      "date": "7/27/2022",
+      "chapter": "Epheser 4,1-16 ",
+      "read": false
+    },
+    {
+      "date": "7/28/2022",
+      "chapter": "Epheser 4,17-32 ",
+      "read": false
+    },
+    {
+      "date": "7/29/2022",
+      "chapter": "Epheser 5,1-20 ",
+      "read": false
+    },
+    {
+      "date": "7/30/2022",
+      "chapter": "Epheser 5,21-33 ",
+      "read": false
+    },
+    {
+      "date": "7/31/2022",
+      "chapter": "Epheser 6 ",
+      "read": false
+    },
+    {
+      "date": "8/1/2022",
+      "chapter": "Philipper 1,1-20 ",
+      "read": false
+    },
+    {
+      "date": "8/2/2022",
+      "chapter": "Philipper 1,21-30 ",
+      "read": false
+    },
+    {
+      "date": "8/3/2022",
+      "chapter": "Philipper 2,1-11 ",
+      "read": false
+    },
+    {
+      "date": "8/4/2022",
+      "chapter": "Philipper 2,12-30 ",
+      "read": false
+    },
+    {
+      "date": "8/5/2022",
+      "chapter": "Philipper 3 ",
+      "read": false
+    },
+    {
+      "date": "8/6/2022",
+      "chapter": "Philipper 4,1-9 ",
+      "read": false
+    },
+    {
+      "date": "8/7/2022",
+      "chapter": "Philipper 4,10-23 ",
+      "read": false
+    },
+    {
+      "date": "8/8/2022",
+      "chapter": "Kolosser 1,1-14 ",
+      "read": false
+    },
+    {
+      "date": "8/9/2022",
+      "chapter": "Kolosser 1,15-29 ",
+      "read": false
+    },
+    {
+      "date": "8/10/2022",
+      "chapter": "Kolosser 2,1-15 ",
+      "read": false
+    },
+    {
+      "date": "8/11/2022",
+      "chapter": "Kolosser 2,16-23 ",
+      "read": false
+    },
+    {
+      "date": "8/12/2022",
+      "chapter": "Kolosser 3,1-17 ",
+      "read": false
+    },
+    {
+      "date": "8/13/2022",
+      "chapter": "Kolosser 3,17-4,1 ",
+      "read": false
+    },
+    {
+      "date": "8/14/2022",
+      "chapter": "Kolosser 4,2-18 ",
+      "read": false
+    },
+    {
+      "date": "8/15/2022",
+      "chapter": "Philemon 1 ",
+      "read": false
+    },
+    {
+      "date": "8/16/2022",
+      "chapter": "Apostelg. 1 ",
+      "read": false
+    },
+    {
+      "date": "8/17/2022",
+      "chapter": "Apostelg. 2,1-21 ",
+      "read": false
+    },
+    {
+      "date": "8/18/2022",
+      "chapter": "Apostelg. 2,22-47 ",
+      "read": false
+    },
+    {
+      "date": "8/19/2022",
+      "chapter": "Apostelg. 3 ",
+      "read": false
+    },
+    {
+      "date": "8/20/2022",
+      "chapter": "Apostelg. 4,1-22 ",
+      "read": false
+    },
+    {
+      "date": "8/21/2022",
+      "chapter": "Apostelg. 4,23-37 ",
+      "read": false
+    },
+    {
+      "date": "8/22/2022",
+      "chapter": "Apostelg. 5,1-16 ",
+      "read": false
+    },
+    {
+      "date": "8/23/2022",
+      "chapter": "Apostelg. 5,17-42 ",
+      "read": false
+    },
+    {
+      "date": "8/24/2022",
+      "chapter": "Apostelg. 6 ",
+      "read": false
+    },
+    {
+      "date": "8/25/2022",
+      "chapter": "Apostelg. 7,1-38 ",
+      "read": false
+    },
+    {
+      "date": "8/26/2022",
+      "chapter": "Apostelg. 7,39-60 ",
+      "read": false
+    },
+    {
+      "date": "8/27/2022",
+      "chapter": "Apostelg. 8,1-25 ",
+      "read": false
+    },
+    {
+      "date": "8/28/2022",
+      "chapter": "Apostelg. 8,26-40 ",
+      "read": false
+    },
+    {
+      "date": "8/29/2022",
+      "chapter": "Apostelg. 9,1-31 ",
+      "read": false
+    },
+    {
+      "date": "8/30/2022",
+      "chapter": "Apostelg. 9,32-43 ",
+      "read": false
+    },
+    {
+      "date": "8/31/2022",
+      "chapter": "Apostelg. 10,1-24 ",
+      "read": false
+    },
+    {
+      "date": "9/1/2022",
+      "chapter": "Apostelg. 10,25-48 ",
+      "read": false
+    },
+    {
+      "date": "9/2/2022",
+      "chapter": "Apostelg. 11 ",
+      "read": false
+    },
+    {
+      "date": "9/3/2022",
+      "chapter": "Apostelg. 12 ",
+      "read": false
+    },
+    {
+      "date": "9/4/2022",
+      "chapter": "Apostelg. 13,1-22 ",
+      "read": false
+    },
+    {
+      "date": "9/5/2022",
+      "chapter": "Apostelg. 13,23-52 ",
+      "read": false
+    },
+    {
+      "date": "9/6/2022",
+      "chapter": "Apostelg. 14 ",
+      "read": false
+    },
+    {
+      "date": "9/7/2022",
+      "chapter": "Apostelg. 15 ",
+      "read": false
+    },
+    {
+      "date": "9/8/2022",
+      "chapter": "Apostelg. 16,1-24 ",
+      "read": false
+    },
+    {
+      "date": "9/9/2022",
+      "chapter": "Apostelg. 16,25-40 ",
+      "read": false
+    },
+    {
+      "date": "9/10/2022",
+      "chapter": "Apostelg. 17 ",
+      "read": false
+    },
+    {
+      "date": "9/11/2022",
+      "chapter": "Apostelg. 18 ",
+      "read": false
+    },
+    {
+      "date": "9/12/2022",
+      "chapter": "Apostelg. 19,1-22 ",
+      "read": false
+    },
+    {
+      "date": "9/13/2022",
+      "chapter": "Apostelg. 19,23-40 ",
+      "read": false
+    },
+    {
+      "date": "9/14/2022",
+      "chapter": "Apostelg. 20 ",
+      "read": false
+    },
+    {
+      "date": "9/15/2022",
+      "chapter": "Apostelg. 21,1-17 ",
+      "read": false
+    },
+    {
+      "date": "9/16/2022",
+      "chapter": "Apostelg. 21,18-40 ",
+      "read": false
+    },
+    {
+      "date": "9/17/2022",
+      "chapter": "Apostelg. 22,1-29 ",
+      "read": false
+    },
+    {
+      "date": "9/18/2022",
+      "chapter": "Apostelg. 22,30-23,35 ",
+      "read": false
+    },
+    {
+      "date": "9/19/2022",
+      "chapter": "Apostelg. 24 ",
+      "read": false
+    },
+    {
+      "date": "9/20/2022",
+      "chapter": "Apostelg. 25 ",
+      "read": false
+    },
+    {
+      "date": "9/21/2022",
+      "chapter": "Apostelg. 26 ",
+      "read": false
+    },
+    {
+      "date": "9/22/2022",
+      "chapter": "Apostelg. 27 ",
+      "read": false
+    },
+    {
+      "date": "9/23/2022",
+      "chapter": "Apostelg. 28 ",
+      "read": false
+    },
+    {
+      "date": "9/24/2022",
+      "chapter": "1. Timotheus 1 ",
+      "read": false
+    },
+    {
+      "date": "9/25/2022",
+      "chapter": "1. Timotheus 2 ",
+      "read": false
+    },
+    {
+      "date": "9/26/2022",
+      "chapter": "1. Timotheus 3 ",
+      "read": false
+    },
+    {
+      "date": "9/27/2022",
+      "chapter": "1. Timotheus 4 ",
+      "read": false
+    },
+    {
+      "date": "9/28/2022",
+      "chapter": "1. Timotheus 5,1-16 ",
+      "read": false
+    },
+    {
+      "date": "9/29/2022",
+      "chapter": "1. Timotheus 5,17-25 ",
+      "read": false
+    },
+    {
+      "date": "9/30/2022",
+      "chapter": "1. Timotheus 6 ",
+      "read": false
+    },
+    {
+      "date": "10/1/2022",
+      "chapter": "Titus 1 ",
+      "read": false
+    },
+    {
+      "date": "10/2/2022",
+      "chapter": "Titus 2 ",
+      "read": false
+    },
+    {
+      "date": "10/3/2022",
+      "chapter": "Titus 3 ",
+      "read": false
+    },
+    {
+      "date": "10/4/2022",
+      "chapter": "1.Petrus 1,1-12 ",
+      "read": false
+    },
+    {
+      "date": "10/5/2022",
+      "chapter": "1.Petrus 1,13-25 ",
+      "read": false
+    },
+    {
+      "date": "10/6/2022",
+      "chapter": "1.Petrus 2,1-10 ",
+      "read": false
+    },
+    {
+      "date": "10/7/2022",
+      "chapter": "1.Petrus 2,11-25 ",
+      "read": false
+    },
+    {
+      "date": "10/8/2022",
+      "chapter": "1.Petrus 3,1-7 ",
+      "read": false
+    },
+    {
+      "date": "10/9/2022",
+      "chapter": "1.Petrus 3,8-22 ",
+      "read": false
+    },
+    {
+      "date": "10/10/2022",
+      "chapter": "1.Petrus 4 ",
+      "read": false
+    },
+    {
+      "date": "10/11/2022",
+      "chapter": "1.Petrus 5 ",
+      "read": false
+    },
+    {
+      "date": "10/12/2022",
+      "chapter": "2. Timotheus 1 ",
+      "read": false
+    },
+    {
+      "date": "10/13/2022",
+      "chapter": "2. Timotheus 2 ",
+      "read": false
+    },
+    {
+      "date": "10/14/2022",
+      "chapter": "2. Timotheus 3 ",
+      "read": false
+    },
+    {
+      "date": "10/15/2022",
+      "chapter": "2. Timotheus 4 ",
+      "read": false
+    },
+    {
+      "date": "10/16/2022",
+      "chapter": "2.Petrus 1 ",
+      "read": false
+    },
+    {
+      "date": "10/17/2022",
+      "chapter": "2.Petrus 2 ",
+      "read": false
+    },
+    {
+      "date": "10/18/2022",
+      "chapter": "2.Petrus 3 ",
+      "read": false
+    },
+    {
+      "date": "10/19/2022",
+      "chapter": "Hebräer 1 ",
+      "read": false
+    },
+    {
+      "date": "10/20/2022",
+      "chapter": "Hebräer 2 ",
+      "read": false
+    },
+    {
+      "date": "10/21/2022",
+      "chapter": "Hebräer 3 ",
+      "read": false
+    },
+    {
+      "date": "10/22/2022",
+      "chapter": "Hebräer 4 ",
+      "read": false
+    },
+    {
+      "date": "10/23/2022",
+      "chapter": "Hebräer 5 ",
+      "read": false
+    },
+    {
+      "date": "10/24/2022",
+      "chapter": "Hebräer 6 ",
+      "read": false
+    },
+    {
+      "date": "10/25/2022",
+      "chapter": "Hebräer 7 ",
+      "read": false
+    },
+    {
+      "date": "10/26/2022",
+      "chapter": "Hebräer 8 ",
+      "read": false
+    },
+    {
+      "date": "10/27/2022",
+      "chapter": "Hebräer 9 ",
+      "read": false
+    },
+    {
+      "date": "10/28/2022",
+      "chapter": "Hebräer 10,1-18 ",
+      "read": false
+    },
+    {
+      "date": "10/29/2022",
+      "chapter": "Hebräer 10,19-39 ",
+      "read": false
+    },
+    {
+      "date": "10/30/2022",
+      "chapter": "Hebräer 11 ",
+      "read": false
+    },
+    {
+      "date": "10/31/2022",
+      "chapter": "Hebräer 12 ",
+      "read": false
+    },
+    {
+      "date": "11/1/2022",
+      "chapter": "Hebräer 13 ",
+      "read": false
+    },
+    {
+      "date": "11/2/2022",
+      "chapter": "Judas ",
+      "read": false
+    },
+    {
+      "date": "11/3/2022",
+      "chapter": "Johannes 1,1-18 ",
+      "read": false
+    },
+    {
+      "date": "11/4/2022",
+      "chapter": "Johannes 1,19-51 ",
+      "read": false
+    },
+    {
+      "date": "11/5/2022",
+      "chapter": "Johannes 2 ",
+      "read": false
+    },
+    {
+      "date": "11/6/2022",
+      "chapter": "Johannes 3 ",
+      "read": false
+    },
+    {
+      "date": "11/7/2022",
+      "chapter": "Johannes 4,1-42 ",
+      "read": false
+    },
+    {
+      "date": "11/8/2022",
+      "chapter": "Johannes 4,43-5,16 ",
+      "read": false
+    },
+    {
+      "date": "11/9/2022",
+      "chapter": "Johannes 5,17-47 ",
+      "read": false
+    },
+    {
+      "date": "11/10/2022",
+      "chapter": "Johannes 6,1-40 ",
+      "read": false
+    },
+    {
+      "date": "11/11/2022",
+      "chapter": "Johannes 6,41-71 ",
+      "read": false
+    },
+    {
+      "date": "11/12/2022",
+      "chapter": "Johannes 7 ",
+      "read": false
+    },
+    {
+      "date": "11/13/2022",
+      "chapter": "Johannes 8,1-36 ",
+      "read": false
+    },
+    {
+      "date": "11/14/2022",
+      "chapter": "Johannes 8,37-59 ",
+      "read": false
+    },
+    {
+      "date": "11/15/2022",
+      "chapter": "Johanens 9 ",
+      "read": false
+    },
+    {
+      "date": "11/16/2022",
+      "chapter": "Johannes 10 ",
+      "read": false
+    },
+    {
+      "date": "11/17/2022",
+      "chapter": "Johannes 11,1-28 ",
+      "read": false
+    },
+    {
+      "date": "11/18/2022",
+      "chapter": "Johannes 11,29-57 ",
+      "read": false
+    },
+    {
+      "date": "11/19/2022",
+      "chapter": "Johannes 12,1-36 ",
+      "read": false
+    },
+    {
+      "date": "11/20/2022",
+      "chapter": "Johannes 12,37-50 ",
+      "read": false
+    },
+    {
+      "date": "11/21/2022",
+      "chapter": "Johannes 13 ",
+      "read": false
+    },
+    {
+      "date": "11/22/2022",
+      "chapter": "Johannes 14 ",
+      "read": false
+    },
+    {
+      "date": "11/23/2022",
+      "chapter": "Johannes 15 ",
+      "read": false
+    },
+    {
+      "date": "11/24/2022",
+      "chapter": "Johannes 16 ",
+      "read": false
+    },
+    {
+      "date": "11/25/2022",
+      "chapter": "Johannes 17,1-17 ",
+      "read": false
+    },
+    {
+      "date": "11/26/2022",
+      "chapter": "Johannes 17,18-26 ",
+      "read": false
+    },
+    {
+      "date": "11/27/2022",
+      "chapter": "Johannes 18 ",
+      "read": false
+    },
+    {
+      "date": "11/28/2022",
+      "chapter": "Johannes 19 ",
+      "read": false
+    },
+    {
+      "date": "11/29/2022",
+      "chapter": "Johannes 20 ",
+      "read": false
+    },
+    {
+      "date": "11/30/2022",
+      "chapter": "Johannes 21 ",
+      "read": false
+    },
+    {
+      "date": "12/1/2022",
+      "chapter": "1. Johannes 1,1-2,2 ",
+      "read": false
+    },
+    {
+      "date": "12/2/2022",
+      "chapter": "1. Johannes 2,3-2,11 ",
+      "read": false
+    },
+    {
+      "date": "12/3/2022",
+      "chapter": "1.Johannes 2,12-28 ",
+      "read": false
+    },
+    {
+      "date": "12/4/2022",
+      "chapter": "1.Johannes 2,29-3,10 ",
+      "read": false
+    },
+    {
+      "date": "12/5/2022",
+      "chapter": "1.Johannes 3,11-24 ",
+      "read": false
+    },
+    {
+      "date": "12/6/2022",
+      "chapter": "1.Johannes 4,1-5,3 ",
+      "read": false
+    },
+    {
+      "date": "12/7/2022",
+      "chapter": "1.Johannes 5 ",
+      "read": false
+    },
+    {
+      "date": "12/8/2022",
+      "chapter": "2.Johannes 1 ",
+      "read": false
+    },
+    {
+      "date": "12/9/2022",
+      "chapter": "3. Johannes 1 ",
+      "read": false
+    },
+    {
+      "date": "12/10/2022",
+      "chapter": "Offenbarung 1 ",
+      "read": false
+    },
+    {
+      "date": "12/11/2022",
+      "chapter": "Offenbarung 2 ",
+      "read": false
+    },
+    {
+      "date": "12/12/2022",
+      "chapter": "Offenbarung 3 ",
+      "read": false
+    },
+    {
+      "date": "12/13/2022",
+      "chapter": "Offenbarung 4 ",
+      "read": false
+    },
+    {
+      "date": "12/14/2022",
+      "chapter": "Offenbarung 5 ",
+      "read": false
+    },
+    {
+      "date": "12/15/2022",
+      "chapter": "Offenbarung 6 ",
+      "read": false
+    },
+    {
+      "date": "12/16/2022",
+      "chapter": "Offenbarung 7 ",
+      "read": false
+    },
+    {
+      "date": "12/17/2022",
+      "chapter": "Offenbarung 8 ",
+      "read": false
+    },
+    {
+      "date": "12/18/2022",
+      "chapter": "Offenbarung 9 ",
+      "read": false
+    },
+    {
+      "date": "12/19/2022",
+      "chapter": "Offenbarung 10 ",
+      "read": false
+    },
+    {
+      "date": "12/20/2022",
+      "chapter": "Offenbarung 11 ",
+      "read": false
+    },
+    {
+      "date": "12/21/2022",
+      "chapter": "Offenbarung 12 ",
+      "read": false
+    },
+    {
+      "date": "12/22/2022",
+      "chapter": "Offenbarung 13 ",
+      "read": false
+    },
+    {
+      "date": "12/23/2022",
+      "chapter": "Offenbarung 14 ",
+      "read": false
+    },
+    {
+      "date": "12/24/2022",
+      "chapter": "Offenbarung 15 ",
+      "read": false
+    },
+    {
+      "date": "12/25/2022",
+      "chapter": "Offenbarung 16 ",
+      "read": false
+    },
+    {
+      "date": "12/26/2022",
+      "chapter": "Offenbarung 17 ",
+      "read": false
+    },
+    {
+      "date": "12/27/2022",
+      "chapter": "Offenbarung 18 ",
+      "read": false
+    },
+    {
+      "date": "12/28/2022",
+      "chapter": "Offenbarung 19 ",
+      "read": false
+    },
+    {
+      "date": "12/29/2022",
+      "chapter": "Offenbarung 20 ",
+      "read": false
+    },
+    {
+      "date": "12/30/2022",
+      "chapter": "Offenbarung 21 ",
+      "read": false
+    },
+    {
+      "date": "12/31/2022",
+      "chapter": "Offenbarung 22 ",
+      "read": false
+    },
+    {
+      "date": "1/4/2022",
+      "chapter": "Ps 1 ",
+      "read": false
+    },
+    {
+      "date": "1/8/2022",
+      "chapter": "Ps 2 ",
+      "read": false
+    },
+    {
+      "date": "1/12/2022",
+      "chapter": "Ps 3 ",
+      "read": false
+    },
+    {
+      "date": "1/16/2022",
+      "chapter": "Ps 4 ",
+      "read": false
+    },
+    {
+      "date": "1/20/2022",
+      "chapter": "Ps 5 ",
+      "read": false
+    },
+    {
+      "date": "1/24/2022",
+      "chapter": "Spr 1 ",
+      "read": false
+    },
+    {
+      "date": "1/28/2022",
+      "chapter": "Ps 6 ",
+      "read": false
+    },
+    {
+      "date": "2/1/2022",
+      "chapter": "Ps 7 ",
+      "read": false
+    },
+    {
+      "date": "2/5/2022",
+      "chapter": "Ps 8 ",
+      "read": false
+    },
+    {
+      "date": "2/9/2022",
+      "chapter": "Ps 9 ",
+      "read": false
+    },
+    {
+      "date": "2/13/2022",
+      "chapter": "Ps 10 ",
+      "read": false
+    },
+    {
+      "date": "2/17/2022",
+      "chapter": "Spr 2 ",
+      "read": false
+    },
+    {
+      "date": "2/21/2022",
+      "chapter": "Ps 11 ",
+      "read": false
+    },
+    {
+      "date": "2/25/2022",
+      "chapter": "Ps 12 ",
+      "read": false
+    },
+    {
+      "date": "3/1/2022",
+      "chapter": "Ps 13 ",
+      "read": false
+    },
+    {
+      "date": "3/5/2022",
+      "chapter": "Ps 14 ",
+      "read": false
+    },
+    {
+      "date": "3/9/2022",
+      "chapter": "Ps 15 ",
+      "read": false
+    },
+    {
+      "date": "3/13/2022",
+      "chapter": "Spr 3 ",
+      "read": false
+    },
+    {
+      "date": "3/17/2022",
+      "chapter": "Ps 16 ",
+      "read": false
+    },
+    {
+      "date": "3/21/2022",
+      "chapter": "Ps 17 ",
+      "read": false
+    },
+    {
+      "date": "3/25/2022",
+      "chapter": "Ps 18 ",
+      "read": false
+    },
+    {
+      "date": "3/29/2022",
+      "chapter": "Ps 19 ",
+      "read": false
+    },
+    {
+      "date": "4/2/2022",
+      "chapter": "Ps 20 ",
+      "read": false
+    },
+    {
+      "date": "4/6/2022",
+      "chapter": "Spr 4 ",
+      "read": false
+    },
+    {
+      "date": "4/10/2022",
+      "chapter": "Ps 21 ",
+      "read": false
+    },
+    {
+      "date": "4/14/2022",
+      "chapter": "Ps 22 ",
+      "read": false
+    },
+    {
+      "date": "4/18/2022",
+      "chapter": "Ps 23 ",
+      "read": false
+    },
+    {
+      "date": "4/22/2022",
+      "chapter": "Ps 24 ",
+      "read": false
+    },
+    {
+      "date": "4/26/2022",
+      "chapter": "Ps 25 ",
+      "read": false
+    },
+    {
+      "date": "4/30/2022",
+      "chapter": "Spr 5 ",
+      "read": false
+    },
+    {
+      "date": "5/4/2022",
+      "chapter": "Ps 26 ",
+      "read": false
+    },
+    {
+      "date": "5/8/2022",
+      "chapter": "Ps 27 ",
+      "read": false
+    },
+    {
+      "date": "5/12/2022",
+      "chapter": "Ps 28 ",
+      "read": false
+    },
+    {
+      "date": "5/16/2022",
+      "chapter": "Ps 29 ",
+      "read": false
+    },
+    {
+      "date": "5/20/2022",
+      "chapter": "Ps 30 ",
+      "read": false
+    },
+    {
+      "date": "5/24/2022",
+      "chapter": "Spr 6 ",
+      "read": false
+    },
+    {
+      "date": "5/28/2022",
+      "chapter": "Ps 31 ",
+      "read": false
+    },
+    {
+      "date": "6/1/2022",
+      "chapter": "Ps 32 ",
+      "read": false
+    },
+    {
+      "date": "6/5/2022",
+      "chapter": "Ps 33 ",
+      "read": false
+    },
+    {
+      "date": "6/9/2022",
+      "chapter": "Ps 34 ",
+      "read": false
+    },
+    {
+      "date": "6/13/2022",
+      "chapter": "Ps 35 ",
+      "read": false
+    },
+    {
+      "date": "6/17/2022",
+      "chapter": "Spr 7 ",
+      "read": false
+    },
+    {
+      "date": "6/21/2022",
+      "chapter": "Ps 36 ",
+      "read": false
+    },
+    {
+      "date": "6/25/2022",
+      "chapter": "Ps 37 ",
+      "read": false
+    },
+    {
+      "date": "6/29/2022",
+      "chapter": "Ps 38 ",
+      "read": false
+    },
+    {
+      "date": "7/3/2022",
+      "chapter": "Ps 39 ",
+      "read": false
+    },
+    {
+      "date": "7/7/2022",
+      "chapter": "Ps 40 ",
+      "read": false
+    },
+    {
+      "date": "7/11/2022",
+      "chapter": "Spr 8 ",
+      "read": false
+    },
+    {
+      "date": "7/15/2022",
+      "chapter": "Ps 41 ",
+      "read": false
+    },
+    {
+      "date": "7/19/2022",
+      "chapter": "Ps 42 ",
+      "read": false
+    },
+    {
+      "date": "7/23/2022",
+      "chapter": "Ps 43 ",
+      "read": false
+    },
+    {
+      "date": "7/27/2022",
+      "chapter": "Ps 44 ",
+      "read": false
+    },
+    {
+      "date": "7/31/2022",
+      "chapter": "Ps 45 ",
+      "read": false
+    },
+    {
+      "date": "8/4/2022",
+      "chapter": "Spr 9 ",
+      "read": false
+    },
+    {
+      "date": "8/8/2022",
+      "chapter": "Ps 46 ",
+      "read": false
+    },
+    {
+      "date": "8/12/2022",
+      "chapter": "Ps 47 ",
+      "read": false
+    },
+    {
+      "date": "8/16/2022",
+      "chapter": "Ps 48 ",
+      "read": false
+    },
+    {
+      "date": "8/20/2022",
+      "chapter": "Ps 49 ",
+      "read": false
+    },
+    {
+      "date": "8/24/2022",
+      "chapter": "Ps 50 ",
+      "read": false
+    },
+    {
+      "date": "8/28/2022",
+      "chapter": "Spr 10 ",
+      "read": false
+    },
+    {
+      "date": "9/1/2022",
+      "chapter": "Ps 51 ",
+      "read": false
+    },
+    {
+      "date": "9/5/2022",
+      "chapter": "Ps 52 ",
+      "read": false
+    },
+    {
+      "date": "9/9/2022",
+      "chapter": "Ps 53 ",
+      "read": false
+    },
+    {
+      "date": "9/13/2022",
+      "chapter": "Ps 54 ",
+      "read": false
+    },
+    {
+      "date": "9/17/2022",
+      "chapter": "Ps 55 ",
+      "read": false
+    },
+    {
+      "date": "9/21/2022",
+      "chapter": "Spr 11 ",
+      "read": false
+    },
+    {
+      "date": "9/25/2022",
+      "chapter": "Ps 56 ",
+      "read": false
+    },
+    {
+      "date": "9/29/2022",
+      "chapter": "Ps 57 ",
+      "read": false
+    },
+    {
+      "date": "10/3/2022",
+      "chapter": "Ps 58 ",
+      "read": false
+    },
+    {
+      "date": "10/7/2022",
+      "chapter": "Ps 59 ",
+      "read": false
+    },
+    {
+      "date": "10/11/2022",
+      "chapter": "Ps 60 ",
+      "read": false
+    },
+    {
+      "date": "10/15/2022",
+      "chapter": "Spr 12 ",
+      "read": false
+    },
+    {
+      "date": "10/19/2022",
+      "chapter": "Ps 61 ",
+      "read": false
+    },
+    {
+      "date": "10/23/2022",
+      "chapter": "Ps 62 ",
+      "read": false
+    },
+    {
+      "date": "10/27/2022",
+      "chapter": "Ps 63 ",
+      "read": false
+    },
+    {
+      "date": "10/31/2022",
+      "chapter": "Ps 64 ",
+      "read": false
+    },
+    {
+      "date": "11/4/2022",
+      "chapter": "Ps 65 ",
+      "read": false
+    },
+    {
+      "date": "11/8/2022",
+      "chapter": "Spr 13 ",
+      "read": false
+    },
+    {
+      "date": "11/12/2022",
+      "chapter": "Ps 66 ",
+      "read": false
+    },
+    {
+      "date": "11/16/2022",
+      "chapter": "Ps 67 ",
+      "read": false
+    },
+    {
+      "date": "11/20/2022",
+      "chapter": "Ps 68 ",
+      "read": false
+    },
+    {
+      "date": "11/24/2022",
+      "chapter": "Ps 69 ",
+      "read": false
+    },
+    {
+      "date": "11/28/2022",
+      "chapter": "Ps 70 ",
+      "read": false
+    },
+    {
+      "date": "12/2/2022",
+      "chapter": "Spr 14 ",
+      "read": false
+    },
+    {
+      "date": "12/6/2022",
+      "chapter": "Ps 70 ",
+      "read": false
+    },
+    {
+      "date": "12/10/2022",
+      "chapter": "Ps 71 ",
+      "read": false
+    },
+    {
+      "date": "12/14/2022",
+      "chapter": "Ps 72 ",
+      "read": false
+    },
+    {
+      "date": "12/18/2022",
+      "chapter": "Ps 73 ",
+      "read": false
+    },
+    {
+      "date": "12/22/2022",
+      "chapter": "Ps 74 ",
+      "read": false
+    },
+    {
+      "date": "12/26/2022",
+      "chapter": "Ps 75 ",
+      "read": false
+    },
+    {
+      "date": "12/30/2022",
+      "chapter": "Spr 15 ",
+      "read": false
+    }
+  ]
+}
